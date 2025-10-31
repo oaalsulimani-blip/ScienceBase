@@ -1,0 +1,59 @@
+# url: (add this file under .github/workflows/smart-orcid-updater.yml in your repo)
+name: Smart ORCID Updater
+
+# Runs daily at 02:00 Saudi time (UTC+3) => 23:00 UTC previous day
+on:
+  schedule:
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-orcid-data:
+    runs-on: ubuntu-latest
+    env:
+      ORCID_EXCEL_FILE: data_ORCIDs_CORRECTED.xlsx
+      RUN_SCHEDULED: '1'
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          # requirements.txt preferred if present
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; else pip install pandas requests openpyxl; fi
+
+      - name: Convert CSV -> XLSX (if CSV exists)
+        run: |
+          python scripts/sync_xlsx_csv.py --from-csv
+
+      - name: Run smart ORCID updater
+        run: |
+          # Run the updater non-interactively
+          python -c "from smart_orcid_updater import run_scheduled_update; run_scheduled_update()"
+
+      - name: Convert XLSX -> CSV (persist updates for in-repo editing)
+        run: |
+          python scripts/sync_xlsx_csv.py --to-csv
+
+      - name: Commit and push changes (if any)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Add files that may change (excel, csv, logs, reports, backups)
+          git add "data_ORCIDs_CORRECTED.xlsx" "data_ORCIDs_CORRECTED.csv" orcid_updater.log orcid_update_report.txt backups || true
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Automated ORCID update: $(date -u +"%Y-%m-%d %H:%M:%S UTC")" || true
+            git push origin HEAD || true
+          else
+            echo "No changes to commit"
+          fi
