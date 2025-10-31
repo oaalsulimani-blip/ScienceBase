@@ -1,0 +1,51 @@
+name: Smart ORCID Updater
+
+# Runs daily at 02:00 UTC. Adjust cron if you want a different timezone.
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-orcid-data:
+    runs-on: ubuntu-latest
+    env:
+      # Set Excel filename in the repo. This should match your actual file name in the repo.
+      ORCID_EXCEL_FILE: data_orcids_corrected.xlsx
+      # Tell the script to run non-interactively
+      RUN_SCHEDULED: '1'
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          # If you use a requirements.txt, install from it. Otherwise install common libs.
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; else pip install pandas requests openpyxl; fi
+
+      - name: Run smart ORCID updater
+        run: |
+          python -c "from smart_orcid_updater import run_scheduled_update; run_scheduled_update()"
+
+      - name: Commit and push changes (if any)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Add files that may change (excel, logs, reports, backups)
+          git add "${ORCID_EXCEL_FILE}" orcid_updater.log orcid_update_report.txt backups || true
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Automated ORCID update: $(date -u +"%Y-%m-%d %H:%M:%S UTC")" || true
+            git push origin HEAD || true
+          else
+            echo "No changes to commit"
+          fi
