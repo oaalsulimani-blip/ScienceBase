@@ -153,7 +153,7 @@ def clean_text(text):
     text = str(text).lower().strip()
     # Remove extra spaces, special characters, and normalize
     text = re.sub(r'\s+', ' ', text)  # Replace multiple spaces with single space
-    text = re.sub(r'[^\w\s]', '', text)  # Remove punctuation
+    text = re.sub(r'[^\n\w\s]', '', text)  # Remove punctuation
     return text
 
 def clean_doi(doi):
@@ -632,7 +632,7 @@ def main():
         
         # Show duplication info if applicable
         if duplicates_removed > 0:
-            st.info(f"🔍 **Duplicate Detection:** Removed {duplicates_removed:,} duplicate publications, showing {unique_filtered_publications:,} unique publications out of {len(filtered_publications):,} total records")
+            st.info(f"🔍 **Duplicate Detection:** Removed {duplicates_removed:,} duplicate publications, showing {unique_filtered_publications:,} unique publications out of {len(filtered_public[...])}")
         
         # Analytics Visualizations
         st.markdown("### 📊 Research Analytics")
@@ -910,8 +910,7 @@ def main():
     st.markdown("""
     <div class="footer">
         <p>🔬 ScienceBase Research Analytics Dashboard | Built with Streamlit</p>
-        <p>📊 ORCID Research Data Analysis | Data Source: data_ORCIDs_CORRECTED.xlsx</p>
-        <div class="copyright">© 2024 Dr. Osamah Alsulimani. All rights reserved.</div>
+        <div class="copyright">© 2025 Dr. Osamah Alsulimani. All rights reserved.</div>
     </div>
     """, unsafe_allow_html=True)
 
