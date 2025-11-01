@@ -632,7 +632,11 @@ def main():
         
         # Show duplication info if applicable
         if duplicates_removed > 0:
-            st.info(f"🔍 **Duplicate Detection:** Removed {duplicates_removed:,} duplicate publications, showing {unique_filtered_publications:,} unique publications out of {len(filtered_public[...])}")
+            st.info(
+                f"🔍 **Duplicate Detection:** Removed {duplicates_removed:,} duplicate publications, "
+                f"showing {unique_filtered_publications:,} unique publications out of "
+                f"{len(filtered_publications):,} total filtered records."
+            )
         
         # Analytics Visualizations
         st.markdown("### 📊 Research Analytics")
