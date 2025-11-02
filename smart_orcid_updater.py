@@ -24,7 +24,7 @@ logger = logging.getLogger(__name__)
 class ORCIDSmartUpdater:
     def __init__(self, excel_file=None):
         # Prefer explicit parameter, else environment variable ORCID_EXCEL_FILE, else fallback
-        self.excel_file = excel_file or os.getenv('ORCID_EXCEL_FILE', 'data_orcids_corrected.xlsx')
+        self.excel_file = excel_file or os.getenv('ORCID_EXCEL_FILE', 'data_ORCIDs_CORRECTED.xlsx')
         self.backup_dir = "backups"
         self.last_hash_file = "last_file_hash.txt"
         

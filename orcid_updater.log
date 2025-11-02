@@ -1,0 +1,941 @@
+2025-11-01 20:51:44,148 - INFO - 🔄 Updating publication data only...
+2025-11-01 20:51:44,148 - ERROR - ❌ Error updating publication data: [Errno 2] No such file or directory: 'data_orcids_corrected.xlsx'
+2025-11-01 20:52:56,087 - INFO - 🔄 Updating publication data only...
+2025-11-01 20:52:56,087 - ERROR - ❌ Error updating publication data: [Errno 2] No such file or directory: 'data_orcids_corrected.xlsx'
+2025-11-01 21:05:46,565 - INFO - 🕒 Running scheduled ORCID update...
+2025-11-01 21:05:46,567 - INFO - 🔍 Starting smart ORCID update check...
+2025-11-01 21:05:46,572 - INFO - No changes detected in Excel file. Checking for ORCID updates...
+2025-11-01 21:05:46,572 - INFO - 🔄 Updating publication data only...
+2025-11-01 21:05:46,921 - INFO - Updating publications for Abdullah Bokhary
+2025-11-01 21:05:47,841 - INFO - ORCID 0009-0007-7854-4357 valid: 7 publications
+2025-11-01 21:05:47,843 - INFO - Updated Abdullah Bokhary: 7 publications
+2025-11-01 21:05:48,843 - INFO - Updating publications for Abdulraheem A. Alwafi
+2025-11-01 21:05:49,592 - INFO - ORCID 0000-0002-1736-3348 valid: 12 publications
+2025-11-01 21:05:49,594 - INFO - Updated Abdulraheem A. Alwafi: 12 publications
+2025-11-01 21:05:50,594 - INFO - Updating publications for Abrar Bardesi
+2025-11-01 21:05:51,321 - INFO - ORCID 0009-0003-4911-1940 valid: 1 publications
+2025-11-01 21:05:51,322 - INFO - Updated Abrar Bardesi: 1 publications
+2025-11-01 21:05:52,323 - INFO - Updating publications for Akram Qutob
+2025-11-01 21:05:52,618 - INFO - ORCID 0000-0002-9225-3501 valid: 0 publications
+2025-11-01 21:05:52,619 - INFO - Updated Akram Qutob: 0 publications
+2025-11-01 21:05:53,620 - INFO - Updating publications for Alaa Jameel Kabbarah
+2025-11-01 21:05:53,934 - INFO - ORCID 0000-0001-8713-1609 valid: 5 publications
+2025-11-01 21:05:53,935 - INFO - Updated Alaa Jameel Kabbarah: 5 publications
+2025-11-01 21:05:54,935 - INFO - Updating publications for Alhassan hameed Aldeen
+2025-11-01 21:05:55,255 - INFO - ORCID 0009-0005-1530-4618 valid: 0 publications
+2025-11-01 21:05:55,256 - INFO - Updated Alhassan hameed Aldeen: 0 publications
+2025-11-01 21:05:56,256 - INFO - Updating publications for Dalia E Meisha
+2025-11-01 21:05:57,056 - INFO - ORCID 0000-0001-8234-690X valid: 19 publications
+2025-11-01 21:05:57,057 - INFO - Updated Dalia E Meisha: 19 publications
+2025-11-01 21:05:58,058 - INFO - Updating publications for Dania E. Alagili
+2025-11-01 21:05:58,521 - INFO - ORCID 0000-0002-0214-5479 valid: 30 publications
+2025-11-01 21:05:58,523 - INFO - Updated Dania E. Alagili: 30 publications
+2025-11-01 21:05:59,523 - INFO - Updating publications for Dania Sabbahi
+2025-11-01 21:05:59,842 - INFO - ORCID 0000-0002-2399-068X valid: 22 publications
+2025-11-01 21:05:59,843 - INFO - Updated Dania Sabbahi: 22 publications
+2025-11-01 21:06:00,843 - INFO - Updating publications for Deema sahab
+2025-11-01 21:06:01,121 - INFO - ORCID 0009-0004-4972-017X valid: 0 publications
+2025-11-01 21:06:01,122 - INFO - Updated Deema sahab: 0 publications
+2025-11-01 21:06:02,122 - INFO - Updating publications for Ehab Alshouibi
+2025-11-01 21:06:02,450 - INFO - ORCID 0000-0002-6554-3861 valid: 4 publications
+2025-11-01 21:06:02,452 - INFO - Updated Ehab Alshouibi: 4 publications
+2025-11-01 21:06:03,452 - INFO - Updating publications for Heba Ashi
+2025-11-01 21:06:03,749 - INFO - ORCID 0000-0001-6691-9317 valid: 0 publications
+2025-11-01 21:06:03,750 - INFO - Updated Heba Ashi: 0 publications
+2025-11-01 21:06:04,751 - INFO - Updating publications for Layla Waleed Abuljadayel
+2025-11-01 21:06:05,037 - INFO - ORCID 0000-0001-8035-3444 valid: 2 publications
+2025-11-01 21:06:05,039 - INFO - Updated Layla Waleed Abuljadayel: 2 publications
+2025-11-01 21:06:06,039 - INFO - Updating publications for Leena Merdad
+2025-11-01 21:06:06,447 - INFO - ORCID 0000-0002-3270-0736 valid: 31 publications
+2025-11-01 21:06:06,449 - INFO - Updated Leena Merdad: 31 publications
+2025-11-01 21:06:07,450 - INFO - Updating publications for Lina Bahanan
+2025-11-01 21:06:07,830 - INFO - ORCID 0000-0001-6508-5939 valid: 23 publications
+2025-11-01 21:06:07,832 - INFO - Updated Lina Bahanan: 23 publications
+2025-11-01 21:06:08,832 - INFO - Updating publications for Meyassara Samman
+2025-11-01 21:06:09,221 - INFO - ORCID 0000-0003-2256-8601 valid: 15 publications
+2025-11-01 21:06:09,222 - INFO - Updated Meyassara Samman: 15 publications
+2025-11-01 21:06:10,223 - INFO - Updating publications for Mohamed Bamashmous
+2025-11-01 21:06:10,601 - INFO - ORCID 0000-0003-1618-6957 valid: 22 publications
+2025-11-01 21:06:10,602 - INFO - Updated Mohamed Bamashmous: 22 publications
+2025-11-01 21:06:11,603 - INFO - Updating publications for Mona Rajeh
+2025-11-01 21:06:11,904 - INFO - ORCID 0000-0003-2071-6084 valid: 7 publications
+2025-11-01 21:06:11,905 - INFO - Updated Mona Rajeh: 7 publications
+2025-11-01 21:06:12,906 - INFO - Updating publications for Nada J. Farsi
+2025-11-01 21:06:13,322 - INFO - ORCID 0000-0001-8762-2467 valid: 0 publications
+2025-11-01 21:06:13,324 - INFO - Updated Nada J. Farsi: 0 publications
+2025-11-01 21:06:14,325 - INFO - Updating publications for Sarah Almutairi
+2025-11-01 21:06:14,649 - INFO - ORCID 0000-0002-9915-3060 valid: 3 publications
+2025-11-01 21:06:14,650 - INFO - Updated Sarah Almutairi: 3 publications
+2025-11-01 21:06:15,651 - INFO - Updating publications for Sulafa Diaa Al-Deen Ayoub
+2025-11-01 21:06:15,923 - INFO - ORCID 0000-0003-1365-4233 valid: 0 publications
+2025-11-01 21:06:15,924 - INFO - Updated Sulafa Diaa Al-Deen Ayoub: 0 publications
+2025-11-01 21:06:16,924 - INFO - Updating publications for Zuhair S. Natto
+2025-11-01 21:06:17,863 - INFO - ORCID 0000-0003-2723-0255 valid: 157 publications
+2025-11-01 21:06:17,865 - INFO - Updated Zuhair S. Natto: 157 publications
+2025-11-01 21:06:18,866 - INFO - Updating publications for Amna Y. Siddiqui
+2025-11-01 21:06:19,171 - INFO - ORCID 0000-0003-0817-7129 valid: 0 publications
+2025-11-01 21:06:19,172 - INFO - Updated Amna Y. Siddiqui: 0 publications
+2025-11-01 21:06:20,173 - INFO - Updating publications for Ashraf Zaazou
+2025-11-01 21:06:20,550 - INFO - ORCID 0000-0001-5682-6862 valid: 19 publications
+2025-11-01 21:06:20,551 - INFO - Updated Ashraf Zaazou: 19 publications
+2025-11-01 21:06:21,552 - INFO - Updating publications for Ayman M. Abulhamael
+2025-11-01 21:06:21,983 - INFO - ORCID 0000-0001-7214-0967 valid: 24 publications
+2025-11-01 21:06:21,985 - INFO - Updated Ayman M. Abulhamael: 24 publications
+2025-11-01 21:06:22,985 - INFO - Updating publications for Hagar Bastawy
+2025-11-01 21:06:23,351 - INFO - ORCID 0000-0001-8850-8818 valid: 28 publications
+2025-11-01 21:06:23,353 - INFO - Updated Hagar Bastawy: 28 publications
+2025-11-01 21:06:24,354 - INFO - Updating publications for Khalid Merdad
+2025-11-01 21:06:24,680 - INFO - ORCID 0000-0002-1832-0606 valid: 22 publications
+2025-11-01 21:06:24,681 - INFO - Updated Khalid Merdad: 22 publications
+2025-11-01 21:06:25,682 - INFO - Updating publications for Laila Bahammam
+2025-11-01 21:06:26,004 - INFO - ORCID 0000-0001-9075-361X valid: 31 publications
+2025-11-01 21:06:26,005 - INFO - Updated Laila Bahammam: 31 publications
+2025-11-01 21:06:27,006 - INFO - Updating publications for Loai Alsofi
+2025-11-01 21:06:27,384 - INFO - ORCID 0000-0002-0430-0268 valid: 31 publications
+2025-11-01 21:06:27,386 - INFO - Updated Loai Alsofi: 31 publications
+2025-11-01 21:06:28,387 - INFO - Updating publications for Majed Bakhit Al-Sharif
+2025-11-01 21:06:28,714 - INFO - ORCID 0000-0001-7945-6550 valid: 3 publications
+2025-11-01 21:06:28,715 - INFO - Updated Majed Bakhit Al-Sharif: 3 publications
+2025-11-01 21:06:29,716 - INFO - Updating publications for Maysoun Tawfiq Al-Buhaiti
+2025-11-01 21:06:29,988 - INFO - ORCID 0000-0002-3777-4259 valid: 0 publications
+2025-11-01 21:06:29,989 - INFO - Updated Maysoun Tawfiq Al-Buhaiti: 0 publications
+2025-11-01 21:06:30,990 - INFO - Updating publications for Mohammed Alharbi
+2025-11-01 21:06:31,315 - INFO - ORCID 0000-0002-7315-4305 valid: 5 publications
+2025-11-01 21:06:31,316 - INFO - Updated Mohammed Alharbi: 5 publications
+2025-11-01 21:06:32,317 - INFO - Updating publications for Mohammed Howait
+2025-11-01 21:06:32,649 - INFO - ORCID 0000-0002-6268-4941 valid: 10 publications
+2025-11-01 21:06:32,650 - INFO - Updated Mohammed Howait: 10 publications
+2025-11-01 21:06:33,651 - INFO - Updating publications for Obadah Austah
+2025-11-01 21:06:33,955 - INFO - ORCID 0000-0002-2518-8754 valid: 20 publications
+2025-11-01 21:06:33,956 - INFO - Updated Obadah Austah: 20 publications
+2025-11-01 21:06:34,957 - INFO - Updating publications for Omar Alzahrani
+2025-11-01 21:06:35,301 - INFO - ORCID 0000-0002-9991-4085 valid: 2 publications
+2025-11-01 21:06:35,307 - INFO - Updated Omar Alzahrani: 2 publications
+2025-11-01 21:06:36,309 - INFO - Updating publications for Osama Shuja Al-Othmani
+2025-11-01 21:06:36,709 - INFO - ORCID 0000-0002-9552-1305 valid: 0 publications
+2025-11-01 21:06:36,710 - INFO - Updated Osama Shuja Al-Othmani: 0 publications
+2025-11-01 21:06:37,712 - INFO - Updating publications for Ruaa A. Alamoudi
+2025-11-01 21:06:38,040 - INFO - ORCID 0000-0003-4973-2686 valid: 11 publications
+2025-11-01 21:06:38,041 - INFO - Updated Ruaa A. Alamoudi: 11 publications
+2025-11-01 21:06:39,042 - INFO - Updating publications for Sawsan T. Abu-Zeid
+2025-11-01 21:06:39,388 - INFO - ORCID 0000-0001-7515-4715 valid: 19 publications
+2025-11-01 21:06:39,390 - INFO - Updated Sawsan T. Abu-Zeid: 19 publications
+2025-11-01 21:06:40,391 - INFO - Updating publications for Sereen Kattan
+2025-11-01 21:06:40,711 - INFO - ORCID 0000-0001-6114-3601 valid: 4 publications
+2025-11-01 21:06:40,713 - INFO - Updated Sereen Kattan: 4 publications
+2025-11-01 21:06:41,713 - INFO - Updating publications for Shatha Zahran
+2025-11-01 21:06:42,046 - INFO - ORCID 0000-0001-5016-3690 valid: 12 publications
+2025-11-01 21:06:42,048 - INFO - Updated Shatha Zahran: 12 publications
+2025-11-01 21:06:43,049 - INFO - Updating publications for Abdulaziz F. Banasr
+2025-11-01 21:06:43,370 - INFO - ORCID 0000-0003-3647-522X valid: 1 publications
+2025-11-01 21:06:43,371 - INFO - Updated Abdulaziz F. Banasr: 1 publications
+2025-11-01 21:06:44,372 - INFO - Updating publications for Ahmed Alzahrani
+2025-11-01 21:06:44,733 - INFO - ORCID 0000-0002-5010-3249 valid: 17 publications
+2025-11-01 21:06:44,735 - INFO - Updated Ahmed Alzahrani: 17 publications
+2025-11-01 21:06:45,735 - INFO - Updating publications for Ahmed Zubair Jan
+2025-11-01 21:06:46,015 - INFO - ORCID 0000-0002-4389-6359 valid: 3 publications
+2025-11-01 21:06:46,016 - INFO - Updated Ahmed Zubair Jan: 3 publications
+2025-11-01 21:06:47,017 - INFO - Updating publications for Amr Mohammed Ahmed Bayoumi
+2025-11-01 21:06:47,314 - INFO - ORCID 0000-0002-1631-1749 valid: 0 publications
+2025-11-01 21:06:47,315 - INFO - Updated Amr Mohammed Ahmed Bayoumi: 0 publications
+2025-11-01 21:06:48,316 - INFO - Updating publications for Basem T. Jamal
+2025-11-01 21:06:48,652 - INFO - ORCID 0000-0003-0021-8651 valid: 11 publications
+2025-11-01 21:06:48,653 - INFO - Updated Basem T. Jamal: 11 publications
+2025-11-01 21:06:49,654 - INFO - Updating publications for Ghassan Bin Mustafa Darwish
+2025-11-01 21:06:49,969 - INFO - ORCID 0000-0003-3798-3971 valid: 12 publications
+2025-11-01 21:06:49,971 - INFO - Updated Ghassan Bin Mustafa Darwish: 12 publications
+2025-11-01 21:06:50,971 - INFO - Updating publications for Haitham Attia
+2025-11-01 21:06:51,320 - INFO - ORCID 0000-0003-4662-6298 valid: 1 publications
+2025-11-01 21:06:51,321 - INFO - Updated Haitham Attia: 1 publications
+2025-11-01 21:06:52,322 - INFO - Updating publications for Hamad Alharbi
+2025-11-01 21:06:52,606 - INFO - ORCID 0000-0001-7769-3894 valid: 0 publications
+2025-11-01 21:06:52,607 - INFO - Updated Hamad Alharbi: 0 publications
+2025-11-01 21:06:53,607 - INFO - Updating publications for Lojain Bassyoni
+2025-11-01 21:06:53,913 - INFO - ORCID 0000-0002-3707-907X valid: 0 publications
+2025-11-01 21:06:53,914 - INFO - Updated Lojain Bassyoni: 0 publications
+2025-11-01 21:06:54,915 - INFO - Updating publications for M K Shami
+2025-11-01 21:06:55,638 - INFO - ORCID 0000-0001-5291-0725 valid: 2 publications
+2025-11-01 21:06:55,639 - INFO - Updated M K Shami: 2 publications
+2025-11-01 21:06:56,640 - INFO - Updating publications for Maisa O. Al‐Sebaei
+2025-11-01 21:06:57,049 - INFO - ORCID 0000-0002-4932-1732 valid: 25 publications
+2025-11-01 21:06:57,051 - INFO - Updated Maisa O. Al‐Sebaei: 25 publications
+2025-11-01 21:06:58,051 - INFO - Updating publications for Mazen Almasri
+2025-11-01 21:06:58,375 - INFO - ORCID 0000-0001-9642-3523 valid: 0 publications
+2025-11-01 21:06:58,376 - INFO - Updated Mazen Almasri: 0 publications
+2025-11-01 21:06:59,377 - INFO - Updating publications for Mazen Almasri
+2025-11-01 21:06:59,667 - INFO - ORCID 0000-0002-2394-9505 valid: 1 publications
+2025-11-01 21:06:59,669 - INFO - Updated Mazen Almasri: 1 publications
+2025-11-01 21:07:00,671 - INFO - Updating publications for Mohammed A Sindi
+2025-11-01 21:07:00,967 - INFO - ORCID 0000-0002-8981-7214 valid: 7 publications
+2025-11-01 21:07:00,968 - INFO - Updated Mohammed A Sindi: 7 publications
+2025-11-01 21:07:01,969 - INFO - Updating publications for Mohammed Nadershah
+2025-11-01 21:07:02,385 - INFO - ORCID 0000-0002-6040-5697 valid: 23 publications
+2025-11-01 21:07:02,391 - INFO - Updated Mohammed Nadershah: 23 publications
+2025-11-01 21:07:03,392 - INFO - Updating publications for Mohammed Yusuf Mohammed Tayaran Al-Ghamdi
+2025-11-01 21:07:03,676 - INFO - ORCID 0000-0002-2432-4021 valid: 1 publications
+2025-11-01 21:07:03,677 - INFO - Updated Mohammed Yusuf Mohammed Tayaran Al-Ghamdi: 1 publications
+2025-11-01 21:07:04,677 - INFO - Updating publications for Nahla Khamis Ibrahim
+2025-11-01 21:07:04,999 - INFO - ORCID 0000-0001-5834-6862 valid: 0 publications
+2025-11-01 21:07:05,000 - INFO - Updated Nahla Khamis Ibrahim: 0 publications
+2025-11-01 21:07:06,001 - INFO - Updating publications for Raed Faisal Mohammed Noor Khayat
+2025-11-01 21:07:06,276 - INFO - ORCID 0000-0002-2018-4447 valid: 0 publications
+2025-11-01 21:07:06,277 - INFO - Updated Raed Faisal Mohammed Noor Khayat: 0 publications
+2025-11-01 21:07:07,278 - INFO - Updating publications for Razan Baabdullah
+2025-11-01 21:07:07,600 - INFO - ORCID 0009-0009-3442-848X valid: 12 publications
+2025-11-01 21:07:07,601 - INFO - Updated Razan Baabdullah: 12 publications
+2025-11-01 21:07:08,602 - INFO - Updating publications for Shadi Ali Saleh Al-Zahrani
+2025-11-01 21:07:08,901 - INFO - ORCID 0000-0001-9014-8989 valid: 0 publications
+2025-11-01 21:07:08,902 - INFO - Updated Shadi Ali Saleh Al-Zahrani: 0 publications
+2025-11-01 21:07:09,903 - INFO - Updating publications for Ahmad H. Almehmadi
+2025-11-01 21:07:10,226 - INFO - ORCID 0000-0002-4162-2012 valid: 5 publications
+2025-11-01 21:07:10,228 - INFO - Updated Ahmad H. Almehmadi: 5 publications
+2025-11-01 21:07:11,228 - INFO - Updating publications for Ahmed Alamoudi
+2025-11-01 21:07:11,652 - INFO - ORCID 0000-0001-7459-5324 valid: 35 publications
+2025-11-01 21:07:11,654 - INFO - Updated Ahmed Alamoudi: 35 publications
+2025-11-01 21:07:12,654 - INFO - Updating publications for Alaa Babeer
+2025-11-01 21:07:12,958 - INFO - ORCID 0000-0001-8697-5164 valid: 6 publications
+2025-11-01 21:07:12,960 - INFO - Updated Alaa Babeer: 6 publications
+2025-11-01 21:07:13,960 - INFO - Updating publications for Arwa Alghamdi
+2025-11-01 21:07:14,246 - INFO - ORCID 0009-0009-5024-1172 valid: 3 publications
+2025-11-01 21:07:14,247 - INFO - Updated Arwa Alghamdi: 3 publications
+2025-11-01 21:07:15,247 - INFO - Updating publications for Faisal Alghamdi
+2025-11-01 21:07:15,760 - INFO - ORCID 0000-0003-2086-0772 valid: 50 publications
+2025-11-01 21:07:15,762 - INFO - Updated Faisal Alghamdi: 50 publications
+2025-11-01 21:07:16,762 - INFO - Updating publications for Hanaa Alkharobi
+2025-11-01 21:07:17,166 - INFO - ORCID 0000-0002-8912-9016 valid: 24 publications
+2025-11-01 21:07:17,167 - INFO - Updated Hanaa Alkharobi: 24 publications
+2025-11-01 21:07:18,168 - INFO - Updating publications for Iman Saud Fawaz Al-Fayez
+2025-11-01 21:07:18,498 - INFO - ORCID 0000-0002-1837-1657 valid: 15 publications
+2025-11-01 21:07:18,500 - INFO - Updated Iman Saud Fawaz Al-Fayez: 15 publications
+2025-11-01 21:07:19,501 - INFO - Updating publications for Jamila Farsi
+2025-11-01 21:07:19,823 - INFO - ORCID 0000-0003-4051-5650 valid: 1 publications
+2025-11-01 21:07:19,824 - INFO - Updated Jamila Farsi: 1 publications
+2025-11-01 21:07:20,825 - INFO - Updating publications for Loai Wadea Hazzazi
+2025-11-01 21:07:21,096 - INFO - ORCID 0000-0003-4702-1813 valid: 0 publications
+2025-11-01 21:07:21,097 - INFO - Updated Loai Wadea Hazzazi: 0 publications
+2025-11-01 21:07:22,097 - INFO - Updating publications for Nadia Al‐Hazmi
+2025-11-01 21:07:22,372 - INFO - ORCID 0000-0002-5423-3323 valid: 0 publications
+2025-11-01 21:07:22,373 - INFO - Updated Nadia Al‐Hazmi: 0 publications
+2025-11-01 21:07:23,374 - INFO - Updating publications for Nouran A. Alzebiani
+2025-11-01 21:07:23,686 - INFO - ORCID 0009-0008-6898-4102 valid: 4 publications
+2025-11-01 21:07:23,687 - INFO - Updated Nouran A. Alzebiani: 4 publications
+2025-11-01 21:07:24,688 - INFO - Updating publications for Rowaina Mansouri
+2025-11-01 21:07:24,995 - INFO - ORCID 0009-0007-6133-3430 valid: 1 publications
+2025-11-01 21:07:24,996 - INFO - Updated Rowaina Mansouri: 1 publications
+2025-11-01 21:07:25,998 - INFO - Updating publications for Sahar M. Bukhary
+2025-11-01 21:07:26,322 - INFO - ORCID 0000-0002-2782-8348 valid: 1 publications
+2025-11-01 21:07:26,323 - INFO - Updated Sahar M. Bukhary: 1 publications
+2025-11-01 21:07:27,324 - INFO - Updating publications for Samar A. Alghamdi
+2025-11-01 21:07:27,637 - INFO - ORCID 0000-0002-6739-6746 valid: 2 publications
+2025-11-01 21:07:27,638 - INFO - Updated Samar A. Alghamdi: 2 publications
+2025-11-01 21:07:28,639 - INFO - Updating publications for Turki Youssef Al-Hazazi
+2025-11-01 21:07:28,911 - INFO - ORCID 0000-0001-5757-0870 valid: 0 publications
+2025-11-01 21:07:28,912 - INFO - Updated Turki Youssef Al-Hazazi: 0 publications
+2025-11-01 21:07:29,913 - INFO - Updating publications for Adnan Nasser
+2025-11-01 21:07:30,206 - INFO - ORCID 0000-0002-6780-2716 valid: 4 publications
+2025-11-01 21:07:30,207 - INFO - Updated Adnan Nasser: 4 publications
+2025-11-01 21:07:31,208 - INFO - Updating publications for Ahmed A. A. Hassan
+2025-11-01 21:07:31,530 - INFO - ORCID 0000-0001-5435-5438 valid: 3 publications
+2025-11-01 21:07:31,531 - INFO - Updated Ahmed A. A. Hassan: 3 publications
+2025-11-01 21:07:32,531 - INFO - Updating publications for Ahoud Jazzar
+2025-11-01 21:07:32,931 - INFO - ORCID 0000-0002-0226-3512 valid: 15 publications
+2025-11-01 21:07:32,933 - INFO - Updated Ahoud Jazzar: 15 publications
+2025-11-01 21:07:33,933 - INFO - Updating publications for Alaa F. Bukhari
+2025-11-01 21:07:34,292 - INFO - ORCID 0000-0002-5590-2111 valid: 6 publications
+2025-11-01 21:07:34,294 - INFO - Updated Alaa F. Bukhari: 6 publications
+2025-11-01 21:07:35,294 - INFO - Updating publications for Amal M. Sindi
+2025-11-01 21:07:35,754 - INFO - ORCID 0000-0002-5286-1756 valid: 39 publications
+2025-11-01 21:07:35,756 - INFO - Updated Amal M. Sindi: 39 publications
+2025-11-01 21:07:36,756 - INFO - Updating publications for Arwa M. Farag
+2025-11-01 21:07:37,274 - INFO - ORCID 0000-0003-3762-3474 valid: 40 publications
+2025-11-01 21:07:37,276 - INFO - Updated Arwa M. Farag: 40 publications
+2025-11-01 21:07:38,276 - INFO - Updating publications for Aseel Atef Ismail
+2025-11-01 21:07:38,552 - INFO - ORCID 0009-0009-8136-3842 valid: 0 publications
+2025-11-01 21:07:38,553 - INFO - Updated Aseel Atef Ismail: 0 publications
+2025-11-01 21:07:39,554 - INFO - Updating publications for Azza F. Alhelo
+2025-11-01 21:07:39,838 - INFO - ORCID 0000-0001-6037-5953 valid: 3 publications
+2025-11-01 21:07:39,839 - INFO - Updated Azza F. Alhelo: 3 publications
+2025-11-01 21:07:40,839 - INFO - Updating publications for D. ALHAZMI
+2025-11-01 21:07:41,207 - INFO - ORCID 0000-0003-2013-7111 valid: 12 publications
+2025-11-01 21:07:41,208 - INFO - Updated D. ALHAZMI: 12 publications
+2025-11-01 21:07:42,209 - INFO - Updating publications for Durer Iskanderani
+2025-11-01 21:07:42,524 - INFO - ORCID 0000-0001-5593-0553 valid: 7 publications
+2025-11-01 21:07:42,525 - INFO - Updated Durer Iskanderani: 7 publications
+2025-11-01 21:07:43,527 - INFO - Updating publications for Emad Khan
+2025-11-01 21:07:43,847 - INFO - ORCID 0000-0002-6517-4891 valid: 9 publications
+2025-11-01 21:07:43,848 - INFO - Updated Emad Khan: 9 publications
+2025-11-01 21:07:44,849 - INFO - Updating publications for Fatima M. Jadu
+2025-11-01 21:07:45,276 - INFO - ORCID 0000-0003-1445-3791 valid: 44 publications
+2025-11-01 21:07:45,278 - INFO - Updated Fatima M. Jadu: 44 publications
+2025-11-01 21:07:46,278 - INFO - Updating publications for Fatma Badr
+2025-11-01 21:07:46,614 - INFO - ORCID 0000-0002-0846-9749 valid: 13 publications
+2025-11-01 21:07:46,615 - INFO - Updated Fatma Badr: 13 publications
+2025-11-01 21:07:47,616 - INFO - Updating publications for Ghada Mansour
+2025-11-01 21:07:48,014 - INFO - ORCID 0000-0002-1176-6939 valid: 13 publications
+2025-11-01 21:07:48,015 - INFO - Updated Ghada Mansour: 13 publications
+2025-11-01 21:07:49,016 - INFO - Updating publications for Hanadi Khalifa
+2025-11-01 21:07:49,552 - INFO - ORCID 0000-0001-6129-8785 valid: 19 publications
+2025-11-01 21:07:49,553 - INFO - Updated Hanadi Khalifa: 19 publications
+2025-11-01 21:07:50,554 - INFO - Updating publications for Hanadi Sabban
+2025-11-01 21:07:50,888 - INFO - ORCID 0000-0001-9237-279X valid: 18 publications
+2025-11-01 21:07:50,889 - INFO - Updated Hanadi Sabban: 18 publications
+2025-11-01 21:07:51,890 - INFO - Updating publications for Hani Mawardi
+2025-11-01 21:07:52,643 - INFO - ORCID 0000-0002-4768-1523 valid: 66 publications
+2025-11-01 21:07:52,644 - INFO - Updated Hani Mawardi: 66 publications
+2025-11-01 21:07:53,645 - INFO - Updating publications for Hebah AlDehlawi
+2025-11-01 21:07:53,978 - INFO - ORCID 0009-0007-8910-0348 valid: 17 publications
+2025-11-01 21:07:53,980 - INFO - Updated Hebah AlDehlawi: 17 publications
+2025-11-01 21:07:54,981 - INFO - Updating publications for Hisham Othman
+2025-11-01 21:07:55,294 - INFO - ORCID 0000-0001-5901-8975 valid: 10 publications
+2025-11-01 21:07:55,295 - INFO - Updated Hisham Othman: 10 publications
+2025-11-01 21:07:56,296 - INFO - Updating publications for Ibrahim bin Saleh Aqeel
+2025-11-01 21:07:56,650 - INFO - ORCID 0009-0006-5796-9113 valid: 2 publications
+2025-11-01 21:07:56,652 - INFO - Updated Ibrahim bin Saleh Aqeel: 2 publications
+2025-11-01 21:07:57,652 - INFO - Updating publications for Ibrahim Yamany
+2025-11-01 21:07:58,041 - INFO - ORCID 0000-0002-7224-8414 valid: 11 publications
+2025-11-01 21:07:58,042 - INFO - Updated Ibrahim Yamany: 11 publications
+2025-11-01 21:07:59,042 - INFO - Updating publications for Khadija Omar Baqazi
+2025-11-01 21:07:59,362 - INFO - ORCID 0009-0001-3053-544X valid: 2 publications
+2025-11-01 21:07:59,364 - INFO - Updated Khadija Omar Baqazi: 2 publications
+2025-11-01 21:08:00,364 - INFO - Updating publications for Khalid Aljohani
+2025-11-01 21:08:00,783 - INFO - ORCID 0000-0002-0430-4963 valid: 36 publications
+2025-11-01 21:08:00,785 - INFO - Updated Khalid Aljohani: 36 publications
+2025-11-01 21:08:01,785 - INFO - Updating publications for Madawi Alkeheli
+2025-11-01 21:08:02,136 - INFO - ORCID 0000-0003-0315-1560 valid: 4 publications
+2025-11-01 21:08:02,138 - INFO - Updated Madawi Alkeheli: 4 publications
+2025-11-01 21:08:03,139 - INFO - Updating publications for Maha Alsharif
+2025-11-01 21:08:03,494 - INFO - ORCID 0000-0002-0997-7171 valid: 18 publications
+2025-11-01 21:08:03,496 - INFO - Updated Maha Alsharif: 18 publications
+2025-11-01 21:08:04,496 - INFO - Updating publications for Maha M. F. Mounir
+2025-11-01 21:08:04,831 - INFO - ORCID 0000-0002-5338-0428 valid: 41 publications
+2025-11-01 21:08:04,832 - INFO - Updated Maha M. F. Mounir: 41 publications
+2025-11-01 21:08:05,833 - INFO - Updating publications for Malik Abu Mansour
+2025-11-01 21:08:06,148 - INFO - ORCID 0009-0005-9817-087X valid: 2 publications
+2025-11-01 21:08:06,150 - INFO - Updated Malik Abu Mansour: 2 publications
+2025-11-01 21:08:07,150 - INFO - Updating publications for Manal Abdullah Ahmed Al-Omari
+2025-11-01 21:08:07,486 - INFO - ORCID 0009-0002-1721-7874 valid: 0 publications
+2025-11-01 21:08:07,488 - INFO - Updated Manal Abdullah Ahmed Al-Omari: 0 publications
+2025-11-01 21:08:08,488 - INFO - Updating publications for Maram Bawazir
+2025-11-01 21:08:08,801 - INFO - ORCID 0000-0002-9326-1351 valid: 13 publications
+2025-11-01 21:08:08,802 - INFO - Updated Maram Bawazir: 13 publications
+2025-11-01 21:08:09,803 - INFO - Updating publications for Mohammed Barayan
+2025-11-01 21:08:10,087 - INFO - ORCID 0000-0001-5048-2587 valid: 2 publications
+2025-11-01 21:08:10,088 - INFO - Updated Mohammed Barayan: 2 publications
+2025-11-01 21:08:11,089 - INFO - Updating publications for Mona Hassan Ahmed Hassan
+2025-11-01 21:08:11,476 - INFO - ORCID 0000-0003-3678-5877 valid: 44 publications
+2025-11-01 21:08:11,478 - INFO - Updated Mona Hassan Ahmed Hassan: 44 publications
+2025-11-01 21:08:12,479 - INFO - Updating publications for Nada A. Alhindi
+2025-11-01 21:08:12,814 - INFO - ORCID 0000-0002-2388-7586 valid: 11 publications
+2025-11-01 21:08:12,816 - INFO - Updated Nada A. Alhindi: 11 publications
+2025-11-01 21:08:13,818 - INFO - Updating publications for Nada Binmadi
+2025-11-01 21:08:14,311 - INFO - ORCID 0000-0002-2200-6206 valid: 52 publications
+2025-11-01 21:08:14,313 - INFO - Updated Nada Binmadi: 52 publications
+2025-11-01 21:08:15,314 - INFO - Updating publications for Nagla’a Abdel-Wahed
+2025-11-01 21:08:15,694 - INFO - ORCID 0000-0002-1627-9427 valid: 19 publications
+2025-11-01 21:08:15,695 - INFO - Updated Nagla’a Abdel-Wahed: 19 publications
+2025-11-01 21:08:16,696 - INFO - Updating publications for Osamah Alsulimani
+2025-11-01 21:08:17,057 - INFO - ORCID 0000-0003-0922-2868 valid: 15 publications
+2025-11-01 21:08:17,058 - INFO - Updated Osamah Alsulimani: 15 publications
+2025-11-01 21:08:18,058 - INFO - Updating publications for Safiya Ali Al-Atas
+2025-11-01 21:08:18,457 - INFO - ORCID 0000-0001-7420-7360 valid: 41 publications
+2025-11-01 21:08:18,459 - INFO - Updated Safiya Ali Al-Atas: 41 publications
+2025-11-01 21:08:19,460 - INFO - Updating publications for Sana Alhamed
+2025-11-01 21:08:19,793 - INFO - ORCID 0000-0002-2150-3817 valid: 0 publications
+2025-11-01 21:08:19,795 - INFO - Updated Sana Alhamed: 0 publications
+2025-11-01 21:08:20,796 - INFO - Updating publications for Sara Akeel
+2025-11-01 21:08:21,214 - INFO - ORCID 0000-0001-8006-1185 valid: 29 publications
+2025-11-01 21:08:21,216 - INFO - Updated Sara Akeel: 29 publications
+2025-11-01 21:08:22,217 - INFO - Updating publications for Sarah A. Ali
+2025-11-01 21:08:22,749 - INFO - ORCID 0000-0003-0117-6596 valid: 34 publications
+2025-11-01 21:08:22,751 - INFO - Updated Sarah A. Ali: 34 publications
+2025-11-01 21:08:23,752 - INFO - Updating publications for Soulafa Almazrooa
+2025-11-01 21:08:24,615 - INFO - ORCID 0000-0001-6350-3578 valid: 52 publications
+2025-11-01 21:08:24,617 - INFO - Updated Soulafa Almazrooa: 52 publications
+2025-11-01 21:08:25,618 - INFO - Updating publications for Suad Aljohani
+2025-11-01 21:08:26,022 - INFO - ORCID 0000-0002-4169-6046 valid: 22 publications
+2025-11-01 21:08:26,023 - INFO - Updated Suad Aljohani: 22 publications
+2025-11-01 21:08:27,024 - INFO - Updating publications for Wael Youssef Elias
+2025-11-01 21:08:27,306 - INFO - ORCID 0009-0002-7290-8512 valid: 0 publications
+2025-11-01 21:08:27,307 - INFO - Updated Wael Youssef Elias: 0 publications
+2025-11-01 21:08:28,308 - INFO - Updating publications for Waleed Alamoudi
+2025-11-01 21:08:28,626 - INFO - ORCID 0000-0003-4503-9323 valid: 14 publications
+2025-11-01 21:08:28,628 - INFO - Updated Waleed Alamoudi: 14 publications
+2025-11-01 21:08:29,628 - INFO - Updating publications for Yasmin Mair
+2025-11-01 21:08:29,936 - INFO - ORCID 0009-0002-3365-2673 valid: 12 publications
+2025-11-01 21:08:29,937 - INFO - Updated Yasmin Mair: 12 publications
+2025-11-01 21:08:30,938 - INFO - Updating publications for Azza A. El‐Housseiny
+2025-11-01 21:08:31,396 - INFO - ORCID 0000-0001-8087-758X valid: 29 publications
+2025-11-01 21:08:31,398 - INFO - Updated Azza A. El‐Housseiny: 29 publications
+2025-11-01 21:08:32,398 - INFO - Updating publications for Agou, Shoroog
+2025-11-01 21:08:32,754 - INFO - ORCID 0000-0002-1678-2647 valid: 13 publications
+2025-11-01 21:08:32,756 - INFO - Updated Agou, Shoroog: 13 publications
+2025-11-01 21:08:33,756 - INFO - Updating publications for Ahmed I. Masoud
+2025-11-01 21:08:34,106 - INFO - ORCID 0000-0003-2854-1872 valid: 15 publications
+2025-11-01 21:08:34,108 - INFO - Updated Ahmed I. Masoud: 15 publications
+2025-11-01 21:08:35,108 - INFO - Updating publications for Ahmed R. Afify
+2025-11-01 21:08:35,504 - INFO - ORCID 0000-0003-0961-0326 valid: 18 publications
+2025-11-01 21:08:35,506 - INFO - Updated Ahmed R. Afify: 18 publications
+2025-11-01 21:08:36,506 - INFO - Updating publications for Ali H. Hassan
+2025-11-01 21:08:36,982 - INFO - ORCID 0000-0002-6132-862X valid: 4 publications
+2025-11-01 21:08:36,983 - INFO - Updated Ali H. Hassan: 4 publications
+2025-11-01 21:08:37,986 - INFO - Updating publications for Amal I. Linjawi
+2025-11-01 21:08:38,396 - INFO - ORCID 0000-0001-5477-1765 valid: 35 publications
+2025-11-01 21:08:38,398 - INFO - Updated Amal I. Linjawi: 35 publications
+2025-11-01 21:08:39,399 - INFO - Updating publications for Amal Mohammed Said Abushal
+2025-11-01 21:08:39,703 - INFO - ORCID 0000-0002-8716-0263 valid: 1 publications
+2025-11-01 21:08:39,705 - INFO - Updated Amal Mohammed Said Abushal: 1 publications
+2025-11-01 21:08:40,706 - INFO - Updating publications for Baeshen, Hosam
+2025-11-01 21:08:41,070 - INFO - ORCID 0000-0001-6422-7173 valid: 3 publications
+2025-11-01 21:08:41,072 - INFO - Updated Baeshen, Hosam: 3 publications
+2025-11-01 21:08:42,072 - INFO - Updating publications for Basoum Ashour
+2025-11-01 21:08:42,395 - INFO - ORCID 0000-0002-1759-7216 valid: 0 publications
+2025-11-01 21:08:42,397 - INFO - Updated Basoum Ashour: 0 publications
+2025-11-01 21:08:43,397 - INFO - Updating publications for Dana A. Alyafi
+2025-11-01 21:08:43,677 - INFO - ORCID 0009-0004-2941-8707 valid: 1 publications
+2025-11-01 21:08:43,678 - INFO - Updated Dana A. Alyafi: 1 publications
+2025-11-01 21:08:44,679 - INFO - Updating publications for Doaa H. Alsaggaf
+2025-11-01 21:08:45,015 - INFO - ORCID 0000-0002-9795-8711 valid: 13 publications
+2025-11-01 21:08:45,017 - INFO - Updated Doaa H. Alsaggaf: 13 publications
+2025-11-01 21:08:46,017 - INFO - Updating publications for Fahad F. Alsulaimani
+2025-11-01 21:08:46,415 - INFO - ORCID 0000-0002-0844-5368 valid: 25 publications
+2025-11-01 21:08:46,417 - INFO - Updated Fahad F. Alsulaimani: 25 publications
+2025-11-01 21:08:47,417 - INFO - Updating publications for Ghassan A. Al-Turki
+2025-11-01 21:08:47,752 - INFO - ORCID 0000-0003-0291-5012 valid: 15 publications
+2025-11-01 21:08:47,754 - INFO - Updated Ghassan A. Al-Turki: 15 publications
+2025-11-01 21:08:48,754 - INFO - Updating publications for Hamad Hadi Al-Qahtani
+2025-11-01 21:08:49,098 - INFO - ORCID 0000-0002-8147-4392 valid: 0 publications
+2025-11-01 21:08:49,101 - INFO - Updated Hamad Hadi Al-Qahtani: 0 publications
+2025-11-01 21:08:50,101 - INFO - Updating publications for Hussain Y A Marghalani
+2025-11-01 21:08:50,495 - INFO - ORCID 0000-0003-4223-8431 valid: 16 publications
+2025-11-01 21:08:50,497 - INFO - Updated Hussain Y A Marghalani: 16 publications
+2025-11-01 21:08:51,498 - INFO - Updating publications for Khadijah A. Turkistani
+2025-11-01 21:08:51,775 - INFO - ORCID 0000-0001-8603-4305 valid: 2 publications
+2025-11-01 21:08:51,776 - INFO - Updated Khadijah A. Turkistani: 2 publications
+2025-11-01 21:08:52,777 - INFO - Updating publications for Khalid H. Zawawi
+2025-11-01 21:08:53,343 - INFO - ORCID 0000-0002-4148-8407 valid: 78 publications
+2025-11-01 21:08:53,345 - INFO - Updated Khalid H. Zawawi: 78 publications
+2025-11-01 21:08:54,346 - INFO - Updating publications for Mona Aly Abbassy
+2025-11-01 21:08:54,793 - INFO - ORCID 0000-0002-9782-2988 valid: 40 publications
+2025-11-01 21:08:54,795 - INFO - Updated Mona Aly Abbassy: 40 publications
+2025-11-01 21:08:55,795 - INFO - Updating publications for Mona H. Almotairi
+2025-11-01 21:08:56,137 - INFO - ORCID 0009-0004-9057-4629 valid: 1 publications
+2025-11-01 21:08:56,138 - INFO - Updated Mona H. Almotairi: 1 publications
+2025-11-01 21:08:57,139 - INFO - Updating publications for RANIA RASHAD ABDULRAHMAN DAUSE
+2025-11-01 21:08:57,507 - INFO - ORCID 0009-0000-4339-8993 valid: 4 publications
+2025-11-01 21:08:57,509 - INFO - Updated RANIA RASHAD ABDULRAHMAN DAUSE: 4 publications
+2025-11-01 21:08:58,509 - INFO - Updating publications for Reem A. Alansari
+2025-11-01 21:08:58,843 - INFO - ORCID 0000-0001-6090-2928 valid: 21 publications
+2025-11-01 21:08:58,845 - INFO - Updated Reem A. Alansari: 21 publications
+2025-11-01 21:08:59,845 - INFO - Updating publications for Salha R Aljohani
+2025-11-01 21:09:00,124 - INFO - ORCID 0000-0003-2665-5980 valid: 0 publications
+2025-11-01 21:09:00,126 - INFO - Updated Salha R Aljohani: 0 publications
+2025-11-01 21:09:01,127 - INFO - Updating publications for SALHA RAJAALLAH SAAD ALJOHANI
+2025-11-01 21:09:01,451 - INFO - ORCID 0000-0001-5363-3424 valid: 0 publications
+2025-11-01 21:09:01,453 - INFO - Updated SALHA RAJAALLAH SAAD ALJOHANI: 0 publications
+2025-11-01 21:09:02,454 - INFO - Updating publications for Salma Ghoneim
+2025-11-01 21:09:02,746 - INFO - ORCID 0000-0002-4083-4662 valid: 5 publications
+2025-11-01 21:09:02,748 - INFO - Updated Salma Ghoneim: 5 publications
+2025-11-01 21:09:03,748 - INFO - Updating publications for Waeil Batwa
+2025-11-01 21:09:04,068 - INFO - ORCID 0000-0003-0189-9612 valid: 0 publications
+2025-11-01 21:09:04,069 - INFO - Updated Waeil Batwa: 0 publications
+2025-11-01 21:09:05,069 - INFO - Updating publications for Eman A. El-Ashiry
+2025-11-01 21:09:05,402 - INFO - ORCID 0000-0002-4010-5611 valid: 19 publications
+2025-11-01 21:09:05,404 - INFO - Updated Eman A. El-Ashiry: 19 publications
+2025-11-01 21:09:06,404 - INFO - Updating publications for Abdalrahman Mohammed Ainousa
+2025-11-01 21:09:06,709 - INFO - ORCID 0009-0002-7726-0778 valid: 0 publications
+2025-11-01 21:09:06,710 - INFO - Updated Abdalrahman Mohammed Ainousa: 0 publications
+2025-11-01 21:09:07,711 - INFO - Updating publications for Abdullah Almushayt
+2025-11-01 21:09:08,031 - INFO - ORCID 0000-0001-7687-313X valid: 0 publications
+2025-11-01 21:09:08,032 - INFO - Updated Abdullah Almushayt: 0 publications
+2025-11-01 21:09:09,033 - INFO - Updating publications for Abeer Abdullah Alsadhan
+2025-11-01 21:09:09,320 - INFO - ORCID 0000-0003-4228-7145 valid: 0 publications
+2025-11-01 21:09:09,321 - INFO - Updated Abeer Abdullah Alsadhan: 0 publications
+2025-11-01 21:09:10,322 - INFO - Updating publications for Abeer Alnowaiser
+2025-11-01 21:09:10,611 - INFO - ORCID 0000-0002-8159-6840 valid: 0 publications
+2025-11-01 21:09:10,612 - INFO - Updated Abeer Alnowaiser: 0 publications
+2025-11-01 21:09:11,613 - INFO - Updating publications for Alaa Abdulkareem Nadhreen 
+2025-11-01 21:09:11,887 - INFO - ORCID 0009-0004-3612-0255 valid: 0 publications
+2025-11-01 21:09:11,889 - INFO - Updated Alaa Abdulkareem Nadhreen : 0 publications
+2025-11-01 21:09:12,889 - INFO - Updating publications for Alyaa Olwi
+2025-11-01 21:09:13,224 - INFO - ORCID 0000-0002-0868-3323 valid: 3 publications
+2025-11-01 21:09:13,225 - INFO - Updated Alyaa Olwi: 3 publications
+2025-11-01 21:09:14,226 - INFO - Updating publications for Amani A. Al Tuwirqi
+2025-11-01 21:09:14,555 - INFO - ORCID 0000-0002-9919-0435 valid: 10 publications
+2025-11-01 21:09:14,556 - INFO - Updated Amani A. Al Tuwirqi: 10 publications
+2025-11-01 21:09:15,557 - INFO - Updating publications for Basil Mohammed Andijani
+2025-11-01 21:09:15,886 - INFO - ORCID 0009-0003-6077-9386 valid: 1 publications
+2025-11-01 21:09:15,887 - INFO - Updated Basil Mohammed Andijani: 1 publications
+2025-11-01 21:09:16,888 - INFO - Updating publications for Dania Bahdila
+2025-11-01 21:09:17,197 - INFO - ORCID 0000-0002-5311-148X valid: 12 publications
+2025-11-01 21:09:17,198 - INFO - Updated Dania Bahdila: 12 publications
+2025-11-01 21:09:18,199 - INFO - Updating publications for Deema Farsi
+2025-11-01 21:09:18,530 - INFO - ORCID 0000-0003-1371-913X valid: 15 publications
+2025-11-01 21:09:18,531 - INFO - Updated Deema Farsi: 15 publications
+2025-11-01 21:09:19,531 - INFO - Updating publications for Faisal M. Dardeer
+2025-11-01 21:09:19,842 - INFO - ORCID 0000-0003-2739-2502 valid: 4 publications
+2025-11-01 21:09:19,843 - INFO - Updated Faisal M. Dardeer: 4 publications
+2025-11-01 21:09:20,844 - INFO - Updating publications for Ghalia Bhadila
+2025-11-01 21:09:21,272 - INFO - ORCID 0000-0002-7361-9221 valid: 24 publications
+2025-11-01 21:09:21,273 - INFO - Updated Ghalia Bhadila: 24 publications
+2025-11-01 21:09:22,274 - INFO - Updating publications for Hammam Ahmed Bahammam
+2025-11-01 21:09:22,730 - INFO - ORCID 0000-0001-5946-5337 valid: 27 publications
+2025-11-01 21:09:22,732 - INFO - Updated Hammam Ahmed Bahammam: 27 publications
+2025-11-01 21:09:23,732 - INFO - Updating publications for Hanan Alagl
+2025-11-01 21:09:24,024 - INFO - ORCID 0009-0004-7427-8715 valid: 0 publications
+2025-11-01 21:09:24,026 - INFO - Updated Hanan Alagl: 0 publications
+2025-11-01 21:09:25,026 - INFO - Updating publications for Hanin A. Bakhaider
+2025-11-01 21:09:25,341 - INFO - ORCID 0000-0002-0228-0822 valid: 0 publications
+2025-11-01 21:09:25,342 - INFO - Updated Hanin A. Bakhaider: 0 publications
+2025-11-01 21:09:26,343 - INFO - Updating publications for Heba Elkhodary
+2025-11-01 21:09:26,658 - INFO - ORCID 0000-0002-3593-3025 valid: 13 publications
+2025-11-01 21:09:26,659 - INFO - Updated Heba Elkhodary: 13 publications
+2025-11-01 21:09:27,660 - INFO - Updating publications for Heba Jafar Sabbagh
+2025-11-01 21:09:28,078 - INFO - ORCID 0000-0002-9788-0379 valid: 56 publications
+2025-11-01 21:09:28,081 - INFO - Updated Heba Jafar Sabbagh: 56 publications
+2025-11-01 21:09:29,082 - INFO - Updating publications for Ibtesam Alzain
+2025-11-01 21:09:29,443 - INFO - ORCID 0000-0002-7036-354X valid: 12 publications
+2025-11-01 21:09:29,444 - INFO - Updated Ibtesam Alzain: 12 publications
+2025-11-01 21:09:30,445 - INFO - Updating publications for Khlood Baghlaf
+2025-11-01 21:09:30,846 - INFO - ORCID 0000-0002-0326-9633 valid: 40 publications
+2025-11-01 21:09:30,847 - INFO - Updated Khlood Baghlaf: 40 publications
+2025-11-01 21:09:31,848 - INFO - Updating publications for Maha Alshehri
+2025-11-01 21:09:32,214 - INFO - ORCID 0000-0001-8381-7398 valid: 8 publications
+2025-11-01 21:09:32,216 - INFO - Updated Maha Alshehri: 8 publications
+2025-11-01 21:09:33,217 - INFO - Updating publications for Mariam Aldajani
+2025-11-01 21:09:33,515 - INFO - ORCID 0000-0003-0148-1881 valid: 3 publications
+2025-11-01 21:09:33,516 - INFO - Updated Mariam Aldajani: 3 publications
+2025-11-01 21:09:34,516 - INFO - Updating publications for Moaz Hisham Attar
+2025-11-01 21:09:34,790 - INFO - ORCID 0000-0002-9539-350X valid: 0 publications
+2025-11-01 21:09:34,791 - INFO - Updated Moaz Hisham Attar: 0 publications
+2025-11-01 21:09:35,792 - INFO - Updating publications for Mohammed Alulaiyan
+2025-11-01 21:09:36,089 - INFO - ORCID 0000-0002-8908-4110 valid: 0 publications
+2025-11-01 21:09:36,090 - INFO - Updated Mohammed Alulaiyan: 0 publications
+2025-11-01 21:09:37,090 - INFO - Updating publications for Nada Bamashmous
+2025-11-01 21:09:37,461 - INFO - ORCID 0000-0002-6948-6833 valid: 16 publications
+2025-11-01 21:09:37,462 - INFO - Updated Nada Bamashmous: 16 publications
+2025-11-01 21:09:38,462 - INFO - Updating publications for Najat Farsi
+2025-11-01 21:09:38,845 - INFO - ORCID 0000-0003-0860-4573 valid: 39 publications
+2025-11-01 21:09:38,846 - INFO - Updated Najat Farsi: 39 publications
+2025-11-01 21:09:39,847 - INFO - Updating publications for Najlaa Alamoudi
+2025-11-01 21:09:40,207 - INFO - ORCID 0000-0003-2497-2675 valid: 47 publications
+2025-11-01 21:09:40,209 - INFO - Updated Najlaa Alamoudi: 47 publications
+2025-11-01 21:09:41,209 - INFO - Updating publications for Narmin Helal
+2025-11-01 21:09:41,534 - INFO - ORCID 0000-0002-3194-7358 valid: 18 publications
+2025-11-01 21:09:41,535 - INFO - Updated Narmin Helal: 18 publications
+2025-11-01 21:09:42,536 - INFO - Updating publications for Narmin Helal
+2025-11-01 21:09:42,862 - INFO - ORCID 0000-0002-7932-8927 valid: 2 publications
+2025-11-01 21:09:42,863 - INFO - Updated Narmin Helal: 2 publications
+2025-11-01 21:09:43,864 - INFO - Updating publications for Omar El Meligy
+2025-11-01 21:09:44,855 - INFO - ORCID 0000-0003-1069-6374 valid: 108 publications
+2025-11-01 21:09:44,857 - INFO - Updated Omar El Meligy: 108 publications
+2025-11-01 21:09:45,858 - INFO - Updating publications for Osama M. Felemban
+2025-11-01 21:09:46,544 - INFO - ORCID 0000-0002-3212-5735 valid: 63 publications
+2025-11-01 21:09:46,547 - INFO - Updated Osama M. Felemban: 63 publications
+2025-11-01 21:09:47,548 - INFO - Updating publications for Rabab Aljawi
+2025-11-01 21:09:47,813 - INFO - ORCID 0009-0003-1042-5977 valid: 0 publications
+2025-11-01 21:09:47,814 - INFO - Updated Rabab Aljawi: 0 publications
+2025-11-01 21:09:48,814 - INFO - Updating publications for Rana A. Alamoudi
+2025-11-01 21:09:49,220 - INFO - ORCID 0000-0002-8220-4976 valid: 26 publications
+2025-11-01 21:09:49,222 - INFO - Updated Rana A. Alamoudi: 26 publications
+2025-11-01 21:09:50,223 - INFO - Updating publications for Sara M. Bagher
+2025-11-01 21:09:50,632 - INFO - ORCID 0000-0003-4862-9855 valid: 38 publications
+2025-11-01 21:09:50,635 - INFO - Updated Sara M. Bagher: 38 publications
+2025-11-01 21:09:51,636 - INFO - Updating publications for Shahad N. Abudawood
+2025-11-01 21:09:51,948 - INFO - ORCID 0009-0005-6589-3430 valid: 9 publications
+2025-11-01 21:09:51,949 - INFO - Updated Shahad N. Abudawood: 9 publications
+2025-11-01 21:09:52,950 - INFO - Updating publications for Sumer Madani Alaki
+2025-11-01 21:09:53,242 - INFO - ORCID 0009-0001-3169-9200 valid: 0 publications
+2025-11-01 21:09:53,243 - INFO - Updated Sumer Madani Alaki: 0 publications
+2025-11-01 21:09:54,243 - INFO - Updating publications for Ahmed A. Alhassani
+2025-11-01 21:09:54,562 - INFO - ORCID 0000-0002-3007-0128 valid: 10 publications
+2025-11-01 21:09:54,563 - INFO - Updated Ahmed A. Alhassani: 10 publications
+2025-11-01 21:09:55,564 - INFO - Updating publications for Ali Saad Thafeed AlGhamdi
+2025-11-01 21:09:55,880 - INFO - ORCID 0000-0002-9608-0732 valid: 21 publications
+2025-11-01 21:09:55,881 - INFO - Updated Ali Saad Thafeed AlGhamdi: 21 publications
+2025-11-01 21:09:56,882 - INFO - Updating publications for Amal Jamjoom
+2025-11-01 21:09:57,169 - INFO - ORCID 0000-0002-7608-8171 valid: 3 publications
+2025-11-01 21:09:57,170 - INFO - Updated Amal Jamjoom: 3 publications
+2025-11-01 21:09:58,171 - INFO - Updating publications for Ammar Almarghlani
+2025-11-01 21:09:58,479 - INFO - ORCID 0000-0003-2259-3401 valid: 7 publications
+2025-11-01 21:09:58,480 - INFO - Updated Ammar Almarghlani: 7 publications
+2025-11-01 21:09:59,481 - INFO - Updating publications for Arwa Badahdah
+2025-11-01 21:09:59,808 - INFO - ORCID 0000-0003-2749-7929 valid: 9 publications
+2025-11-01 21:09:59,810 - INFO - Updated Arwa Badahdah: 9 publications
+2025-11-01 21:10:00,810 - INFO - Updating publications for Badr Othman
+2025-11-01 21:10:01,175 - INFO - ORCID 0000-0001-6064-9213 valid: 19 publications
+2025-11-01 21:10:01,177 - INFO - Updated Badr Othman: 19 publications
+2025-11-01 21:10:02,178 - INFO - Updating publications for Bushra Aljahdali
+2025-11-01 21:10:02,479 - INFO - ORCID 0009-0000-3453-1764 valid: 7 publications
+2025-11-01 21:10:02,480 - INFO - Updated Bushra Aljahdali: 7 publications
+2025-11-01 21:10:03,481 - INFO - Updating publications for Elbadawi, Lena
+2025-11-01 21:10:03,782 - INFO - ORCID 0000-0001-6282-5225 valid: 13 publications
+2025-11-01 21:10:03,784 - INFO - Updated Elbadawi, Lena: 13 publications
+2025-11-01 21:10:04,784 - INFO - Updating publications for Eman Y Elfirt
+2025-11-01 21:10:05,055 - INFO - ORCID 0000-0002-3834-8163 valid: 1 publications
+2025-11-01 21:10:05,057 - INFO - Updated Eman Y Elfirt: 1 publications
+2025-11-01 21:10:06,058 - INFO - Updating publications for Ghada H. Naguib
+2025-11-01 21:10:06,368 - INFO - ORCID 0000-0002-8167-1265 valid: 17 publications
+2025-11-01 21:10:06,370 - INFO - Updated Ghada H. Naguib: 17 publications
+2025-11-01 21:10:07,370 - INFO - Updating publications for Jazia A. Alblowi
+2025-11-01 21:10:07,767 - INFO - ORCID 0000-0001-7304-5021 valid: 18 publications
+2025-11-01 21:10:07,768 - INFO - Updated Jazia A. Alblowi: 18 publications
+2025-11-01 21:10:08,768 - INFO - Updating publications for Maha A. Bahammam
+2025-11-01 21:10:09,073 - INFO - ORCID 0000-0001-9852-490X valid: 8 publications
+2025-11-01 21:10:09,074 - INFO - Updated Maha A. Bahammam: 8 publications
+2025-11-01 21:10:10,074 - INFO - Updating publications for Mohammad Assaggaf
+2025-11-01 21:10:10,384 - INFO - ORCID 0000-0003-3254-921X valid: 11 publications
+2025-11-01 21:10:10,385 - INFO - Updated Mohammad Assaggaf: 11 publications
+2025-11-01 21:10:11,386 - INFO - Updating publications for Mohammad S. Al‐Zahrani
+2025-11-01 21:10:11,756 - INFO - ORCID 0000-0003-1720-9372 valid: 44 publications
+2025-11-01 21:10:11,757 - INFO - Updated Mohammad S. Al‐Zahrani: 44 publications
+2025-11-01 21:10:12,758 - INFO - Updating publications for Mohammed Almutadares
+2025-11-01 21:10:13,044 - INFO - ORCID 0000-0001-6803-7633 valid: 1 publications
+2025-11-01 21:10:13,045 - INFO - Updated Mohammed Almutadares: 1 publications
+2025-11-01 21:10:14,046 - INFO - Updating publications for Nour Hobani
+2025-11-01 21:10:14,368 - INFO - ORCID 0000-0003-4000-4359 valid: 2 publications
+2025-11-01 21:10:14,369 - INFO - Updated Nour Hobani: 2 publications
+2025-11-01 21:10:15,369 - INFO - Updating publications for Rayyan A. Kayal
+2025-11-01 21:10:15,755 - INFO - ORCID 0000-0003-3887-7775 valid: 30 publications
+2025-11-01 21:10:15,756 - INFO - Updated Rayyan A. Kayal: 30 publications
+2025-11-01 21:10:16,757 - INFO - Updating publications for Rasha Alyafi
+2025-11-01 21:10:17,032 - INFO - ORCID 0000-0003-3627-6490 valid: 1 publications
+2025-11-01 21:10:17,034 - INFO - Updated Rasha Alyafi: 1 publications
+2025-11-01 21:10:18,035 - INFO - Updating publications for Sami M. Bahlas
+2025-11-01 21:10:18,311 - INFO - ORCID 0000-0002-0526-6962 valid: 0 publications
+2025-11-01 21:10:18,313 - INFO - Updated Sami M. Bahlas: 0 publications
+2025-11-01 21:10:19,314 - INFO - Updating publications for Shahad B. Alsharif
+2025-11-01 21:10:19,628 - INFO - ORCID 0000-0001-8315-1805 valid: 11 publications
+2025-11-01 21:10:19,630 - INFO - Updated Shahad B. Alsharif: 11 publications
+2025-11-01 21:10:20,630 - INFO - Updating publications for Shatha Bamashmous
+2025-11-01 21:10:20,962 - INFO - ORCID 0000-0003-1078-5991 valid: 17 publications
+2025-11-01 21:10:20,964 - INFO - Updated Shatha Bamashmous: 17 publications
+2025-11-01 21:10:21,964 - INFO - Updating publications for Talal M. Zahid
+2025-11-01 21:10:22,277 - INFO - ORCID 0000-0002-9476-505X valid: 12 publications
+2025-11-01 21:10:22,278 - INFO - Updated Talal M. Zahid: 12 publications
+2025-11-01 21:10:23,279 - INFO - Updating publications for Abdulelah M. Binmahfooz
+2025-11-01 21:10:23,558 - INFO - ORCID 0000-0002-3401-7631 valid: 2 publications
+2025-11-01 21:10:23,559 - INFO - Updated Abdulelah M. Binmahfooz: 2 publications
+2025-11-01 21:10:24,560 - INFO - Updating publications for Abdulrahman Jafar Alhaddad
+2025-11-01 21:10:24,902 - INFO - ORCID 0000-0001-8187-8883 valid: 17 publications
+2025-11-01 21:10:24,903 - INFO - Updated Abdulrahman Jafar Alhaddad: 17 publications
+2025-11-01 21:10:25,903 - INFO - Updating publications for Afaf A. Almabadi
+2025-11-01 21:10:26,218 - INFO - ORCID 0000-0003-0275-8782 valid: 7 publications
+2025-11-01 21:10:26,220 - INFO - Updated Afaf A. Almabadi: 7 publications
+2025-11-01 21:10:27,220 - INFO - Updating publications for Ahmad Yahya Imam Mahmoud
+2025-11-01 21:10:27,503 - INFO - ORCID 0000-0002-2114-982X valid: 2 publications
+2025-11-01 21:10:27,504 - INFO - Updated Ahmad Yahya Imam Mahmoud: 2 publications
+2025-11-01 21:10:28,505 - INFO - Updating publications for Alturki, Loolwa
+2025-11-01 21:10:28,833 - INFO - ORCID 0000-0002-9286-488X valid: 0 publications
+2025-11-01 21:10:28,834 - INFO - Updated Alturki, Loolwa: 0 publications
+2025-11-01 21:10:29,835 - INFO - Updating publications for Alyousef, Wed, Abdulaziz
+2025-11-01 21:10:30,145 - INFO - ORCID 0009-0009-2684-6681 valid: 0 publications
+2025-11-01 21:10:30,146 - INFO - Updated Alyousef, Wed, Abdulaziz: 0 publications
+2025-11-01 21:10:31,147 - INFO - Updating publications for Anhar Basunbul
+2025-11-01 21:10:31,427 - INFO - ORCID 0000-0001-6075-9930 valid: 2 publications
+2025-11-01 21:10:31,428 - INFO - Updated Anhar Basunbul: 2 publications
+2025-11-01 21:10:32,429 - INFO - Updating publications for Asmaa Bukhari
+2025-11-01 21:10:32,715 - INFO - ORCID 0000-0003-0058-6585 valid: 1 publications
+2025-11-01 21:10:32,716 - INFO - Updated Asmaa Bukhari: 1 publications
+2025-11-01 21:10:33,716 - INFO - Updating publications for Ayman Al-Dharrab
+2025-11-01 21:10:33,996 - INFO - ORCID 0000-0002-7321-4793 valid: 0 publications
+2025-11-01 21:10:33,997 - INFO - Updated Ayman Al-Dharrab: 0 publications
+2025-11-01 21:10:34,997 - INFO - Updating publications for Bashayer Altaefi
+2025-11-01 21:10:35,278 - INFO - ORCID 0009-0001-4787-5045 valid: 0 publications
+2025-11-01 21:10:35,279 - INFO - Updated Bashayer Altaefi: 0 publications
+2025-11-01 21:10:36,280 - INFO - Updating publications for Dalea M. Bukhary
+2025-11-01 21:10:36,607 - INFO - ORCID 0000-0001-6553-9881 valid: 11 publications
+2025-11-01 21:10:36,609 - INFO - Updated Dalea M. Bukhary: 11 publications
+2025-11-01 21:10:37,609 - INFO - Updating publications for Dua alahdal
+2025-11-01 21:10:37,881 - INFO - ORCID 0009-0009-1526-7684 valid: 0 publications
+2025-11-01 21:10:37,882 - INFO - Updated Dua alahdal: 0 publications
+2025-11-01 21:10:38,883 - INFO - Updating publications for Esraa Attar
+2025-11-01 21:10:39,185 - INFO - ORCID 0000-0002-6770-1843 valid: 6 publications
+2025-11-01 21:10:39,186 - INFO - Updated Esraa Attar: 6 publications
+2025-11-01 21:10:40,187 - INFO - Updating publications for Ghadeer Basunbul
+2025-11-01 21:10:40,467 - INFO - ORCID 0000-0002-1435-2926 valid: 3 publications
+2025-11-01 21:10:40,468 - INFO - Updated Ghadeer Basunbul: 3 publications
+2025-11-01 21:10:41,469 - INFO - Updating publications for Heba Mandourah
+2025-11-01 21:10:41,743 - INFO - ORCID 0009-0006-3235-6521 valid: 0 publications
+2025-11-01 21:10:41,744 - INFO - Updated Heba Mandourah: 0 publications
+2025-11-01 21:10:42,744 - INFO - Updating publications for Hisham Abdullah Mously
+2025-11-01 21:10:43,014 - INFO - ORCID 0000-0001-6328-861X valid: 0 publications
+2025-11-01 21:10:43,016 - INFO - Updated Hisham Abdullah Mously: 0 publications
+2025-11-01 21:10:44,016 - INFO - Updating publications for Hossam F. Jokhadar
+2025-11-01 21:10:44,325 - INFO - ORCID 0000-0003-0540-7208 valid: 1 publications
+2025-11-01 21:10:44,326 - INFO - Updated Hossam F. Jokhadar: 1 publications
+2025-11-01 21:10:45,327 - INFO - Updating publications for Hunaida Tayeb
+2025-11-01 21:10:45,598 - INFO - ORCID 0009-0000-0262-9214 valid: 0 publications
+2025-11-01 21:10:45,599 - INFO - Updated Hunaida Tayeb: 0 publications
+2025-11-01 21:10:46,600 - INFO - Updating publications for Ibrahim Alkanfari
+2025-11-01 21:10:46,868 - INFO - ORCID 0000-0003-3721-1525 valid: 0 publications
+2025-11-01 21:10:46,869 - INFO - Updated Ibrahim Alkanfari: 0 publications
+2025-11-01 21:10:47,869 - INFO - Updating publications for Khadijah M. Baik
+2025-11-01 21:10:48,205 - INFO - ORCID 0000-0002-9863-9501 valid: 0 publications
+2025-11-01 21:10:48,206 - INFO - Updated Khadijah M. Baik: 0 publications
+2025-11-01 21:10:49,206 - INFO - Updating publications for Lana Shinawi
+2025-11-01 21:10:49,493 - INFO - ORCID 0000-0003-3001-7332 valid: 0 publications
+2025-11-01 21:10:49,495 - INFO - Updated Lana Shinawi: 0 publications
+2025-11-01 21:10:50,496 - INFO - Updating publications for Linah M. Ashy
+2025-11-01 21:10:50,785 - INFO - ORCID 0000-0002-7398-8553 valid: 5 publications
+2025-11-01 21:10:50,787 - INFO - Updated Linah M. Ashy: 5 publications
+2025-11-01 21:10:51,787 - INFO - Updating publications for Manal R. Alammari
+2025-11-01 21:10:52,085 - INFO - ORCID 0000-0002-1935-4744 valid: 7 publications
+2025-11-01 21:10:52,086 - INFO - Updated Manal R. Alammari: 7 publications
+2025-11-01 21:10:53,087 - INFO - Updating publications for Manar Alzahrani
+2025-11-01 21:10:53,383 - INFO - ORCID 0000-0003-4639-3500 valid: 4 publications
+2025-11-01 21:10:53,384 - INFO - Updated Manar Alzahrani: 4 publications
+2025-11-01 21:10:54,384 - INFO - Updating publications for Mohamed Abdelmageed Awad
+2025-11-01 21:10:54,765 - INFO - ORCID 0000-0002-4527-3470 valid: 34 publications
+2025-11-01 21:10:54,767 - INFO - Updated Mohamed Abdelmageed Awad: 34 publications
+2025-11-01 21:10:55,767 - INFO - Updating publications for Mohamed Abdelnabi
+2025-11-01 21:10:56,079 - INFO - ORCID 0000-0002-7133-1865 valid: 18 publications
+2025-11-01 21:10:56,080 - INFO - Updated Mohamed Abdelnabi: 18 publications
+2025-11-01 21:10:57,080 - INFO - Updating publications for Mohamed T. Hamed
+2025-11-01 21:10:57,383 - INFO - ORCID 0000-0001-5033-6088 valid: 0 publications
+2025-11-01 21:10:57,384 - INFO - Updated Mohamed T. Hamed: 0 publications
+2025-11-01 21:10:58,385 - INFO - Updating publications for Mohammed Zahran
+2025-11-01 21:10:58,778 - INFO - ORCID 0000-0003-2599-1552 valid: 23 publications
+2025-11-01 21:10:58,779 - INFO - Updated Mohammed Zahran: 23 publications
+2025-11-01 21:10:59,780 - INFO - Updating publications for Mosa Altassan
+2025-11-01 21:11:00,118 - INFO - ORCID 0009-0000-6363-8958 valid: 11 publications
+2025-11-01 21:11:00,119 - INFO - Updated Mosa Altassan: 11 publications
+2025-11-01 21:11:01,120 - INFO - Updating publications for Mujayridi, Mazen Yahya
+2025-11-01 21:11:01,399 - INFO - ORCID 0009-0008-7801-8717 valid: 0 publications
+2025-11-01 21:11:01,400 - INFO - Updated Mujayridi, Mazen Yahya: 0 publications
+2025-11-01 21:11:02,401 - INFO - Updating publications for Nabeel Munshi
+2025-11-01 21:11:02,714 - INFO - ORCID 0009-0003-8631-777X valid: 2 publications
+2025-11-01 21:11:02,716 - INFO - Updated Nabeel Munshi: 2 publications
+2025-11-01 21:11:03,716 - INFO - Updating publications for Nalah Alghanaim
+2025-11-01 21:11:04,018 - INFO - ORCID 0009-0009-3276-018X valid: 1 publications
+2025-11-01 21:11:04,018 - INFO - Updated Nalah Alghanaim: 1 publications
+2025-11-01 21:11:05,019 - INFO - Updating publications for Osama A. Qutub
+2025-11-01 21:11:05,353 - INFO - ORCID 0000-0002-6792-3403 valid: 18 publications
+2025-11-01 21:11:05,354 - INFO - Updated Osama A. Qutub: 18 publications
+2025-11-01 21:11:06,354 - INFO - Updating publications for Othman Alsulaimani
+2025-11-01 21:11:06,633 - INFO - ORCID 0009-0001-0451-8558 valid: 0 publications
+2025-11-01 21:11:06,634 - INFO - Updated Othman Alsulaimani: 0 publications
+2025-11-01 21:11:07,635 - INFO - Updating publications for Raghad A. Al‐Dabbagh
+2025-11-01 21:11:07,948 - INFO - ORCID 0000-0003-2610-9592 valid: 0 publications
+2025-11-01 21:11:07,949 - INFO - Updated Raghad A. Al‐Dabbagh: 0 publications
+2025-11-01 21:11:08,949 - INFO - Updating publications for Ruwaida Z. Alshali
+2025-11-01 21:11:09,306 - INFO - ORCID 0000-0002-7570-0226 valid: 19 publications
+2025-11-01 21:11:09,307 - INFO - Updated Ruwaida Z. Alshali: 19 publications
+2025-11-01 21:11:10,308 - INFO - Updating publications for Sameer Alghamdi
+2025-11-01 21:11:10,587 - INFO - ORCID 0009-0004-9588-5944 valid: 0 publications
+2025-11-01 21:11:10,589 - INFO - Updated Sameer Alghamdi: 0 publications
+2025-11-01 21:11:11,590 - INFO - Updating publications for Shatha Alshali
+2025-11-01 21:11:11,873 - INFO - ORCID 0000-0001-7271-1504 valid: 6 publications
+2025-11-01 21:11:11,875 - INFO - Updated Shatha Alshali: 6 publications
+2025-11-01 21:11:12,875 - INFO - Updating publications for Shihata, Hamza S
+2025-11-01 21:11:13,155 - INFO - ORCID 0009-0002-8346-4144 valid: 0 publications
+2025-11-01 21:11:13,156 - INFO - Updated Shihata, Hamza S: 0 publications
+2025-11-01 21:11:14,156 - INFO - Updating publications for Thamer Y. Marghalani
+2025-11-01 21:11:14,520 - INFO - ORCID 0000-0002-0452-2151 valid: 13 publications
+2025-11-01 21:11:14,521 - INFO - Updated Thamer Y. Marghalani: 13 publications
+2025-11-01 21:11:15,521 - INFO - Updating publications for Turki S. Alkhallagi
+2025-11-01 21:11:15,819 - INFO - ORCID 0000-0003-2893-4043 valid: 5 publications
+2025-11-01 21:11:15,820 - INFO - Updated Turki S. Alkhallagi: 5 publications
+2025-11-01 21:11:16,821 - INFO - Updating publications for Walaa A. Babeer
+2025-11-01 21:11:17,129 - INFO - ORCID 0000-0001-8795-7881 valid: 5 publications
+2025-11-01 21:11:17,130 - INFO - Updated Walaa A. Babeer: 5 publications
+2025-11-01 21:11:18,131 - INFO - Updating publications for Yaser M. Alkhiary
+2025-11-01 21:11:18,489 - INFO - ORCID 0000-0003-1233-1352 valid: 17 publications
+2025-11-01 21:11:18,490 - INFO - Updated Yaser M. Alkhiary: 17 publications
+2025-11-01 21:11:19,490 - INFO - Updating publications for Abdulghani Mira
+2025-11-01 21:11:19,785 - INFO - ORCID 0000-0002-0762-2289 valid: 9 publications
+2025-11-01 21:11:19,786 - INFO - Updated Abdulghani Mira: 9 publications
+2025-11-01 21:11:20,787 - INFO - Updating publications for Abdulrahman A. Alghamdi
+2025-11-01 21:11:21,078 - INFO - ORCID 0000-0003-2891-7040 valid: 3 publications
+2025-11-01 21:11:21,079 - INFO - Updated Abdulrahman A. Alghamdi: 3 publications
+2025-11-01 21:11:22,080 - INFO - Updating publications for Abeer Abo El Naga
+2025-11-01 21:11:22,389 - INFO - ORCID 0000-0002-5603-0669 valid: 4 publications
+2025-11-01 21:11:22,390 - INFO - Updated Abeer Abo El Naga: 4 publications
+2025-11-01 21:11:23,391 - INFO - Updating publications for Abeer K. Tashkandi
+2025-11-01 21:11:23,678 - INFO - ORCID 0000-0003-0495-2415 valid: 2 publications
+2025-11-01 21:11:23,679 - INFO - Updated Abeer K. Tashkandi: 2 publications
+2025-11-01 21:11:24,679 - INFO - Updating publications for Afnan O. Al‐Zain
+2025-11-01 21:11:25,087 - INFO - ORCID 0000-0002-0413-8387 valid: 38 publications
+2025-11-01 21:11:25,088 - INFO - Updated Afnan O. Al‐Zain: 38 publications
+2025-11-01 21:11:26,089 - INFO - Updating publications for Ahmed Abdulaziz Malouh
+2025-11-01 21:11:26,359 - INFO - ORCID 0009-0008-3537-9731 valid: 0 publications
+2025-11-01 21:11:26,360 - INFO - Updated Ahmed Abdulaziz Malouh: 0 publications
+2025-11-01 21:11:27,360 - INFO - Updating publications for Ahmed Bakry
+2025-11-01 21:11:27,885 - INFO - ORCID 0000-0003-2128-9395 valid: 41 publications
+2025-11-01 21:11:27,887 - INFO - Updated Ahmed Bakry: 41 publications
+2025-11-01 21:11:28,887 - INFO - Updating publications for Alaa Abdul Ahad Turkistani
+2025-11-01 21:11:29,166 - INFO - ORCID 0000-0001-7051-0709 valid: 0 publications
+2025-11-01 21:11:29,168 - INFO - Updated Alaa Abdul Ahad Turkistani: 0 publications
+2025-11-01 21:11:30,168 - INFO - Updating publications for Alaa Mannaa
+2025-11-01 21:11:30,486 - INFO - ORCID 0000-0003-1744-7768 valid: 7 publications
+2025-11-01 21:11:30,487 - INFO - Updated Alaa Mannaa: 7 publications
+2025-11-01 21:11:31,488 - INFO - Updating publications for Alaa Turkistani
+2025-11-01 21:11:31,829 - INFO - ORCID 0000-0002-2941-1271 valid: 16 publications
+2025-11-01 21:11:31,831 - INFO - Updated Alaa Turkistani: 16 publications
+2025-11-01 21:11:32,831 - INFO - Updating publications for Amr Ahmed Azhari
+2025-11-01 21:11:33,188 - INFO - ORCID 0000-0002-8749-4714 valid: 17 publications
+2025-11-01 21:11:33,190 - INFO - Updated Amr Ahmed Azhari: 17 publications
+2025-11-01 21:11:34,190 - INFO - Updating publications for Ayman Banjar
+2025-11-01 21:11:34,475 - INFO - ORCID 0000-0003-2128-6039 valid: 0 publications
+2025-11-01 21:11:34,476 - INFO - Updated Ayman Banjar: 0 publications
+2025-11-01 21:11:35,477 - INFO - Updating publications for Aziza Alrafiah
+2025-11-01 21:11:35,976 - INFO - ORCID 0000-0003-0978-5775 valid: 40 publications
+2025-11-01 21:11:35,978 - INFO - Updated Aziza Alrafiah: 40 publications
+2025-11-01 21:11:36,979 - INFO - Updating publications for Basem Mohammed Abuzenada
+2025-11-01 21:11:37,254 - INFO - ORCID 0000-0002-5231-8411 valid: 0 publications
+2025-11-01 21:11:37,256 - INFO - Updated Basem Mohammed Abuzenada: 0 publications
+2025-11-01 21:11:38,257 - INFO - Updating publications for Bassam Zidane
+2025-11-01 21:11:38,568 - INFO - ORCID 0000-0002-9055-3914 valid: 10 publications
+2025-11-01 21:11:38,569 - INFO - Updated Bassam Zidane: 10 publications
+2025-11-01 21:11:39,570 - INFO - Updating publications for Dalia A. Abuelenain
+2025-11-01 21:11:39,854 - INFO - ORCID 0000-0003-3234-6586 valid: 8 publications
+2025-11-01 21:11:39,856 - INFO - Updated Dalia A. Abuelenain: 8 publications
+2025-11-01 21:11:40,856 - INFO - Updating publications for Dalia Mustafa Abu El-Majd
+2025-11-01 21:11:41,153 - INFO - ORCID 0000-0001-7359-8806 valid: 0 publications
+2025-11-01 21:11:41,154 - INFO - Updated Dalia Mustafa Abu El-Majd: 0 publications
+2025-11-01 21:11:42,155 - INFO - Updating publications for Faten Essam Al-Aqeel
+2025-11-01 21:11:42,429 - INFO - ORCID 0000-0001-7955-3043 valid: 0 publications
+2025-11-01 21:11:42,431 - INFO - Updated Faten Essam Al-Aqeel: 0 publications
+2025-11-01 21:11:43,432 - INFO - Updating publications for Fatin A. Hasanain
+2025-11-01 21:11:43,798 - INFO - ORCID 0000-0002-5557-9350 valid: 13 publications
+2025-11-01 21:11:43,800 - INFO - Updated Fatin A. Hasanain: 13 publications
+2025-11-01 21:11:44,801 - INFO - Updating publications for Gamal S. Abd El‐Aziz
+2025-11-01 21:11:45,108 - INFO - ORCID 0000-0003-0398-0297 valid: 15 publications
+2025-11-01 21:11:45,109 - INFO - Updated Gamal S. Abd El‐Aziz: 15 publications
+2025-11-01 21:11:46,109 - INFO - Updating publications for Halah Thanoon
+2025-11-01 21:11:46,396 - INFO - ORCID 0000-0001-9783-2580 valid: 3 publications
+2025-11-01 21:11:46,397 - INFO - Updated Halah Thanoon: 3 publications
+2025-11-01 21:11:47,398 - INFO - Updating publications for Hanaa Mohammed Jamjoum
+2025-11-01 21:11:47,674 - INFO - ORCID 0000-0002-1579-9471 valid: 0 publications
+2025-11-01 21:11:47,676 - INFO - Updated Hanaa Mohammed Jamjoum: 0 publications
+2025-11-01 21:11:48,677 - INFO - Updating publications for Hanadi Youssef Marghalani
+2025-11-01 21:11:48,971 - INFO - ORCID 0000-0002-7752-7703 valid: 0 publications
+2025-11-01 21:11:48,973 - INFO - Updated Hanadi Youssef Marghalani: 0 publications
+2025-11-01 21:11:49,973 - INFO - Updating publications for Hanan Al‐Johani
+2025-11-01 21:11:50,335 - INFO - ORCID 0009-0006-3368-8712 valid: 20 publications
+2025-11-01 21:11:50,338 - INFO - Updated Hanan Al‐Johani: 20 publications
+2025-11-01 21:11:51,339 - INFO - Updating publications for Hanan Filemban
+2025-11-01 21:11:51,608 - INFO - ORCID 0000-0002-5876-5968 valid: 1 publications
+2025-11-01 21:11:51,609 - INFO - Updated Hanan Filemban: 1 publications
+2025-11-01 21:11:52,611 - INFO - Updating publications for Hanan K. Abouelseoud
+2025-11-01 21:11:52,891 - INFO - ORCID 0000-0002-4762-3462 valid: 1 publications
+2025-11-01 21:11:52,892 - INFO - Updated Hanan K. Abouelseoud: 1 publications
+2025-11-01 21:11:53,893 - INFO - Updating publications for Hani M. Nassar
+2025-11-01 21:11:54,259 - INFO - ORCID 0000-0002-6241-1118 valid: 29 publications
+2025-11-01 21:11:54,261 - INFO - Updated Hani M. Nassar: 29 publications
+2025-11-01 21:11:55,262 - INFO - Updating publications for Hanin E. Yeslam
+2025-11-01 21:11:55,639 - INFO - ORCID 0000-0001-5906-8382 valid: 30 publications
+2025-11-01 21:11:55,640 - INFO - Updated Hanin E. Yeslam: 30 publications
+2025-11-01 21:11:56,641 - INFO - Updating publications for Hassan El-Shamy
+2025-11-01 21:11:56,926 - INFO - ORCID 0000-0002-4372-4012 valid: 6 publications
+2025-11-01 21:11:56,927 - INFO - Updated Hassan El-Shamy: 6 publications
+2025-11-01 21:11:57,927 - INFO - Updating publications for Heba Ahmed Al-Dib
+2025-11-01 21:11:58,306 - INFO - ORCID 0000-0002-8303-0138 valid: 15 publications
+2025-11-01 21:11:58,308 - INFO - Updated Heba Ahmed Al-Dib: 15 publications
+2025-11-01 21:11:59,308 - INFO - Updating publications for heba Bahgat Abdelmaksoud
+2025-11-01 21:11:59,611 - INFO - ORCID 0000-0001-5038-715X valid: 15 publications
+2025-11-01 21:11:59,612 - INFO - Updated heba Bahgat Abdelmaksoud: 15 publications
+2025-11-01 21:12:00,613 - INFO - Updating publications for Hilal Mohammed Hilal Sonbul
+2025-11-01 21:12:00,889 - INFO - ORCID 0000-0003-3983-8903 valid: 0 publications
+2025-11-01 21:12:00,890 - INFO - Updated Hilal Mohammed Hilal Sonbul: 0 publications
+2025-11-01 21:12:01,891 - INFO - Updating publications for Hisham A. Mostafa
+2025-11-01 21:12:02,174 - INFO - ORCID 0009-0003-8877-3533 valid: 3 publications
+2025-11-01 21:12:02,175 - INFO - Updated Hisham A. Mostafa: 3 publications
+2025-11-01 21:12:03,176 - INFO - Updating publications for Ibtihal Abdulrahman Saleh Al-Amoudi
+2025-11-01 21:12:03,513 - INFO - ORCID 0009-0003-9796-6150 valid: 0 publications
+2025-11-01 21:12:03,514 - INFO - Updated Ibtihal Abdulrahman Saleh Al-Amoudi: 0 publications
+2025-11-01 21:12:04,514 - INFO - Updating publications for Lina Baeesa
+2025-11-01 21:12:04,799 - INFO - ORCID 0000-0002-0929-0820 valid: 4 publications
+2025-11-01 21:12:04,801 - INFO - Updated Lina Baeesa: 4 publications
+2025-11-01 21:12:05,801 - INFO - Updating publications for Maher S. Hajjaj
+2025-11-01 21:12:06,193 - INFO - ORCID 0000-0002-1554-1008 valid: 20 publications
+2025-11-01 21:12:06,196 - INFO - Updated Maher S. Hajjaj: 20 publications
+2025-11-01 21:12:07,196 - INFO - Updating publications for Mai Almarzouki
+2025-11-01 21:12:07,532 - INFO - ORCID 0000-0002-2311-5383 valid: 0 publications
+2025-11-01 21:12:07,533 - INFO - Updated Mai Almarzouki: 0 publications
+2025-11-01 21:12:08,534 - INFO - Updating publications for Manar Abu-Nawareg
+2025-11-01 21:12:08,865 - INFO - ORCID 0000-0002-4445-7913 valid: 14 publications
+2025-11-01 21:12:08,866 - INFO - Updated Manar Abu-Nawareg: 14 publications
+2025-11-01 21:12:09,867 - INFO - Updating publications for Marwa Bawazir
+2025-11-01 21:12:10,190 - INFO - ORCID 0009-0003-6673-033X valid: 6 publications
+2025-11-01 21:12:10,191 - INFO - Updated Marwa Bawazir: 6 publications
+2025-11-01 21:12:11,192 - INFO - Updating publications for Mohammed Khalil Youssef
+2025-11-01 21:12:11,472 - INFO - ORCID 0000-0003-0189-1055 valid: 0 publications
+2025-11-01 21:12:11,473 - INFO - Updated Mohammed Khalil Youssef: 0 publications
+2025-11-01 21:12:12,474 - INFO - Updating publications for Motaz Ghulman
+2025-11-01 21:12:12,790 - INFO - ORCID 0000-0003-0708-377X valid: 7 publications
+2025-11-01 21:12:12,791 - INFO - Updated Motaz Ghulman: 7 publications
+2025-11-01 21:12:13,792 - INFO - Updating publications for Najla Al Turkestani
+2025-11-01 21:12:14,208 - INFO - ORCID 0000-0002-7650-3638 valid: 35 publications
+2025-11-01 21:12:14,210 - INFO - Updated Najla Al Turkestani: 35 publications
+2025-11-01 21:12:15,211 - INFO - Updating publications for Rasha Ramadan
+2025-11-01 21:12:15,564 - INFO - ORCID 0000-0002-2264-593X valid: 9 publications
+2025-11-01 21:12:15,565 - INFO - Updated Rasha Ramadan: 9 publications
+2025-11-01 21:12:16,566 - INFO - Updating publications for Rawan Badri
+2025-11-01 21:12:16,850 - INFO - ORCID 0000-0002-9865-0946 valid: 2 publications
+2025-11-01 21:12:16,851 - INFO - Updated Rawan Badri: 2 publications
+2025-11-01 21:12:17,852 - INFO - Updating publications for Razan Alharbi
+2025-11-01 21:12:18,147 - INFO - ORCID 0000-0002-3062-5357 valid: 1 publications
+2025-11-01 21:12:18,147 - INFO - Updated Razan Alharbi: 1 publications
+2025-11-01 21:12:19,148 - INFO - Updating publications for Razan Marwan Hashem
+2025-11-01 21:12:19,466 - INFO - ORCID 0000-0002-1088-7544 valid: 1 publications
+2025-11-01 21:12:19,467 - INFO - Updated Razan Marwan Hashem: 1 publications
+2025-11-01 21:12:20,468 - INFO - Updating publications for Reem Ajaj
+2025-11-01 21:12:20,846 - INFO - ORCID 0000-0002-4702-4283 valid: 25 publications
+2025-11-01 21:12:20,847 - INFO - Updated Reem Ajaj: 25 publications
+2025-11-01 21:12:21,848 - INFO - Updating publications for Roaa Abuljadayel
+2025-11-01 21:12:22,173 - INFO - ORCID 0000-0002-0668-6547 valid: 10 publications
+2025-11-01 21:12:22,175 - INFO - Updated Roaa Abuljadayel: 10 publications
+2025-11-01 21:12:23,175 - INFO - Updating publications for Rozana M. Al-Bukhary
+2025-11-01 21:12:23,454 - INFO - ORCID 0000-0003-0684-2922 valid: 3 publications
+2025-11-01 21:12:23,455 - INFO - Updated Rozana M. Al-Bukhary: 3 publications
+2025-11-01 21:12:24,456 - INFO - Updating publications for Saeed J. Alzahrani
+2025-11-01 21:12:24,854 - INFO - ORCID 0000-0003-0276-0532 valid: 14 publications
+2025-11-01 21:12:24,856 - INFO - Updated Saeed J. Alzahrani: 14 publications
+2025-11-01 21:12:25,856 - INFO - Updating publications for Saja Abdullah S Mannaa
+2025-11-01 21:12:26,135 - INFO - ORCID 0009-0008-5942-1076 valid: 0 publications
+2025-11-01 21:12:26,135 - INFO - Updated Saja Abdullah S Mannaa: 0 publications
+2025-11-01 21:12:27,136 - INFO - Updating publications for Samar Hatem Abuzinadah
+2025-11-01 21:12:27,551 - INFO - ORCID 0000-0002-8007-4178 valid: 20 publications
+2025-11-01 21:12:27,552 - INFO - Updated Samar Hatem Abuzinadah: 20 publications
+2025-11-01 21:12:28,553 - INFO - Updating publications for Shara Sajini
+2025-11-01 21:12:28,851 - INFO - ORCID 0000-0002-8185-3114 valid: 0 publications
+2025-11-01 21:12:28,852 - INFO - Updated Shara Sajini: 0 publications
+2025-11-01 21:12:29,852 - INFO - Updating publications for Talal A Almutairi
+2025-11-01 21:12:30,130 - INFO - ORCID 0000-0003-0369-0142 valid: 1 publications
+2025-11-01 21:12:30,132 - INFO - Updated Talal A Almutairi: 1 publications
+2025-11-01 21:12:31,133 - INFO - Updating publications for Tariq S. Abu Haimed
+2025-11-01 21:12:31,552 - INFO - ORCID 0000-0002-5069-7294 valid: 34 publications
+2025-11-01 21:12:31,554 - INFO - Updated Tariq S. Abu Haimed: 34 publications
+2025-11-01 21:12:32,554 - INFO - Updating publications for Tasneem Mohammed Al-Asimi
+2025-11-01 21:12:32,859 - INFO - ORCID 0009-0008-8550-1205 valid: 0 publications
+2025-11-01 21:12:32,860 - INFO - Updated Tasneem Mohammed Al-Asimi: 0 publications
+2025-11-01 21:12:33,861 - INFO - Updating publications for Turki A. Bakhsh
+2025-11-01 21:12:34,398 - INFO - ORCID 0000-0002-5953-4109 valid: 48 publications
+2025-11-01 21:12:34,399 - INFO - Updated Turki A. Bakhsh: 48 publications
+2025-11-01 21:12:35,400 - INFO - Updating publications for Wafaa Alhazmi
+2025-11-01 21:12:35,732 - INFO - ORCID 0000-0001-5322-0953 valid: 7 publications
+2025-11-01 21:12:35,733 - INFO - Updated Wafaa Alhazmi: 7 publications
+2025-11-01 21:12:36,734 - INFO - Updating publications for Walaa Magdy Ahmed
+2025-11-01 21:12:37,162 - INFO - ORCID 0000-0003-1810-8733 valid: 34 publications
+2025-11-01 21:12:37,163 - INFO - Updated Walaa Magdy Ahmed: 34 publications
+2025-11-01 21:12:38,164 - INFO - Updating publications for Yasser Merdad
+2025-11-01 21:12:38,475 - INFO - ORCID 0000-0003-4368-9533 valid: 9 publications
+2025-11-01 21:12:38,476 - INFO - Updated Yasser Merdad: 9 publications
+2025-11-01 21:12:39,477 - INFO - Updating publications for Swelem, Amal Ali
+2025-11-01 21:12:39,827 - INFO - ORCID 0000-0001-5658-1586 valid: 20 publications
+2025-11-01 21:12:39,828 - INFO - Updated Swelem, Amal Ali: 20 publications
+2025-11-01 21:12:40,829 - INFO - Updating publications for Ayad, Mohamed F.
+2025-11-01 21:12:41,199 - INFO - ORCID 0000-0003-1204-6105 valid: 25 publications
+2025-11-01 21:12:41,200 - INFO - Updated Ayad, Mohamed F.: 25 publications
+2025-11-01 21:12:42,201 - INFO - Updating publications for Khalil, Wafaa A
+2025-11-01 21:12:42,544 - INFO - ORCID 0000-0002-2924-141X valid: 9 publications
+2025-11-01 21:12:42,545 - INFO - Updated Khalil, Wafaa A: 9 publications
+2025-11-01 21:12:43,546 - INFO - Updating publications for Abdel-Alim, Hala M
+2025-11-01 21:12:43,831 - INFO - ORCID 0000-0003-3778-6951 valid: 4 publications
+2025-11-01 21:12:43,833 - INFO - Updated Abdel-Alim, Hala M: 4 publications
+2025-11-01 21:12:44,833 - INFO - Updating publications for Ibrahim, Suzan Seif Allah
+2025-11-01 21:12:45,153 - INFO - ORCID 0000-0002-2335-6507 valid: 10 publications
+2025-11-01 21:12:45,154 - INFO - Updated Ibrahim, Suzan Seif Allah: 10 publications
+2025-11-01 21:12:46,700 - INFO - Successfully saved both sheets to data_orcids_corrected.xlsx
+2025-11-01 21:12:46,700 - INFO - ✅ Publication update completed: 310 researchers updated
+2025-11-01 21:12:46,700 - INFO - 📄 Publication details: 3850 records
