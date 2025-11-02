@@ -420,25 +420,20 @@ def get_filtered_performance_metrics(universities, colleges, departments, resear
     # Calculate unique publications for filtered data
     unique_publications, shared_removed, _ = count_unique_publications(filtered_publications)
     
-    # Calculate publications count based on year-filtered publications
-    # Group publications by researcher and count
+    # FIXED: Calculate total publications correctly
     if not filtered_publications.empty:
-        researcher_publication_counts = filtered_publications.groupby('researcher_name').size().reset_index(name='filtered_publications_count')
-        # Merge with filtered researchers to get the publication counts based on year range
-        filtered_researchers_with_counts = filtered_researchers.merge(
-            researcher_publication_counts, 
-            left_on='name', 
-            right_on='researcher_name', 
-            how='left'
-        )
-        # Fill NaN values with 0 for researchers with no publications in the year range
-        filtered_researchers_with_counts['filtered_publications_count'] = filtered_researchers_with_counts['filtered_publications_count'].fillna(0)
+        # Count ALL publication records in the filtered set (before deduplication)
+        total_publications = len(filtered_publications)
         
-        # Use the year-filtered publication counts
-        total_publications = filtered_researchers_with_counts['filtered_publications_count'].sum()
-        total_researchers = len(filtered_researchers_with_counts)
-        researchers_with_publications = len(filtered_researchers_with_counts[filtered_researchers_with_counts['filtered_publications_count'] > 0])
-        average_publications = total_publications / total_researchers if total_researchers > 0 else 0
+        # Count researchers with publications in the filtered set
+        researchers_with_publications = filtered_publications['researcher_name'].nunique()
+        
+        # Calculate average publications per researcher
+        publication_counts = filtered_publications.groupby('researcher_name').size()
+        average_publications = publication_counts.mean() if len(publication_counts) > 0 else 0
+        
+        # Calculate publication rate
+        total_researchers = len(filtered_researchers)
         publication_rate = (researchers_with_publications / total_researchers) * 100 if total_researchers > 0 else 0
     else:
         # If no publications in the year range, set all to 0
